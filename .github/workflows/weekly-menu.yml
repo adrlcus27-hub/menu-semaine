@@ -1,0 +1,57 @@
+name: Menu de la semaine
+
+on:
+  schedule:
+    # Tous les dimanches à 8h00 heure de Paris (7h UTC en été, 6h UTC en hiver,
+    # on vise un compromis correct à l'année).
+    - cron: "0 7 * * 0"
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet "Actions" sur GitHub
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Génération du menu et de la liste de courses
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_menu.py
+
+      - name: Sauvegarde des données (commit automatique)
+        run: |
+          git config user.name "meal-planner-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git diff --quiet --cached || git commit -m "Nouveau menu de la semaine - $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Configuration de GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload de l'artefact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Déploiement sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,36 @@
+{
+  "_commentaire": "Modifie ce fichier librement pour ajuster les préférences familiales. Pas besoin de toucher au code.",
+
+  "foyer": {
+    "nombre_personnes": 4,
+    "budget_hebdo": "équilibré (ni économique, ni premium)",
+    "temps_preparation": "20-40 minutes en semaine",
+    "proteines": "viande ou poisson à chaque repas"
+  },
+
+  "allergies_strictes": [
+    "kiwi",
+    "fruits à coque (noix, noisettes, amandes, cajou, pistache, noix de pécan, noix de macadamia, noix du Brésil)"
+  ],
+
+  "aliments_a_eviter": {
+    "_note": "Préférences/dégoûts à éviter dans les recettes, pas des allergies médicales.",
+    "pere": ["abats"],
+    "mere": ["poivrons", "raifort", "paella", "piments", "couscous", "choucroute"],
+    "moi": [
+      "céleri", "chou", "navet", "salsifis", "pamplemousse", "poire",
+      "radis", "fenouil", "cerise", "rhubarbe", "abricot", "figue",
+      "prune", "fruits de mer"
+    ]
+  },
+
+  "preferences_generales": [
+    "cuisine variée (pas de répétition du même plat dans la semaine)",
+    "recettes familiales accessibles, pas de techniques très complexes",
+    "un repas plus simple/rapide pour au moins un soir de la semaine"
+  ],
+
+  "jours_couverts": ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"],
+
+  "repas_par_jour": ["midi", "soir"]
+}
