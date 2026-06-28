@@ -1,5 +1,1106 @@
 [
   {
+    "semaine_du": "2026-06-28",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade niçoise au thon",
+        "description": "Une salade composée colorée et rassasiante avec thon, œufs, haricots verts et olives.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4"
+          },
+          {
+            "nom": "haricots verts",
+            "quantite": "300g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "250g"
+          },
+          {
+            "nom": "olives noires",
+            "quantite": "80g"
+          },
+          {
+            "nom": "salade verte (romaine)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "anchois en boîte",
+            "quantite": "8 filets"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les œufs durs 10 minutes, les refroidir et les écaler. Blanchir les haricots verts 5 minutes dans l'eau bouillante salée, puis les rafraîchir.",
+          "Préparer la vinaigrette en mélangeant moutarde, vinaigre, huile d'olive, sel et poivre.",
+          "Dresser la salade en disposant feuilles de romaine, haricots verts, tomates cerises coupées en deux, thon égoutté, anchois, olives et œufs coupés en quartiers.",
+          "Arroser de vinaigrette au moment de servir."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Poulet basquaise sans poivrons",
+        "description": "Cuisses de poulet mijotées dans une sauce tomate aux herbes et aux oignons, servies avec du riz blanc.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "riz blanc",
+            "quantite": "300g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "quelques brins"
+          }
+        ],
+        "etapes": [
+          "Faire dorer les cuisses de poulet dans l'huile d'olive à feu vif sur toutes les faces, puis les réserver.",
+          "Dans la même cocotte, faire revenir les oignons émincés et l'ail haché jusqu'à légère coloration, ajouter les tomates pelées, le thym et le laurier.",
+          "Remettre le poulet dans la cocotte, couvrir et laisser mijoter 25 minutes à feu moyen en retournant à mi-cuisson.",
+          "Cuire le riz en parallèle selon les indications du paquet. Servir le poulet nappé de sauce, parsemé de persil frais haché."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Croque-monsieur au jambon et salade",
+        "description": "Des croque-monsieur croustillants à la béchamel légère, accompagnés d'une simple salade verte.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pain de mie",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "150g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "30g"
+          },
+          {
+            "nom": "lait",
+            "quantite": "250ml"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "salade verte (batavia)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préparer une béchamel : faire fondre le beurre, ajouter la farine, puis verser le lait progressivement en remuant. Assaisonner de sel, poivre et muscade.",
+          "Monter les croque-monsieur : déposer une tranche de jambon et du gruyère râpé entre deux tranches de pain, napper le dessus de béchamel et parsemer de gruyère.",
+          "Passer au four à 200°C pendant 10-12 minutes jusqu'à ce que le dessus soit doré et gratiné.",
+          "Pendant ce temps, préparer la salade avec une vinaigrette huile-vinaigre. Servir chaud avec la salade."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Pavé de bœuf poêlé, sauce échalote et haricots verts",
+        "description": "Un steak tendre avec une sauce échalote-vin rouge rapide, accompagné de haricots verts sautés à l'ail.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "pavés de bœuf (rumsteck ou faux-filet)",
+            "quantite": "4 pièces de 150g"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "3"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "bouillon de bœuf",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40g"
+          },
+          {
+            "nom": "haricots verts",
+            "quantite": "500g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "quelques brins"
+          }
+        ],
+        "etapes": [
+          "Blanchir les haricots verts 5-6 minutes dans l'eau bouillante salée, égoutter et réserver.",
+          "Saisir les pavés de bœuf dans une poêle très chaude avec l'huile, 3-4 minutes par face selon la cuisson désirée. Réserver sous une feuille d'aluminium.",
+          "Dans la même poêle, faire revenir les échalotes émincées, déglacer au vin rouge, ajouter le bouillon et laisser réduire 3 minutes. Incorporer le beurre froid en morceaux hors du feu.",
+          "Faire sauter les haricots verts avec l'ail haché dans un peu de beurre. Servir les pavés nappés de sauce échalote avec les haricots verts persillés."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Soupe de tomates maison et mouillettes de jambon",
+        "description": "Une soupe de tomates fraîches veloutée et réconfortante, servie avec des mouillettes de pain grillé et jambon.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "tomates bien mûres",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "300ml"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sucre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé et l'ail haché dans l'huile d'olive. Ajouter les tomates coupées en quartiers, le sucre, sel et poivre. Cuire 15 minutes à feu moyen.",
+          "Mixer la soupe finement, ajouter le bouillon pour ajuster la consistance et rectifier l'assaisonnement.",
+          "Griller les tranches de pain, les couper en mouillettes et les rouler dans les tranches de jambon.",
+          "Servir la soupe bien chaude avec une cuillère de crème fraîche et quelques feuilles de basilic, accompagnée des mouillettes jambon."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Dos de saumon en croûte de moutarde, purée de pommes de terre",
+        "description": "Des pavés de saumon enrobés d'une croûte moutarde-chapelure dorée au four, servis avec une onctueuse purée maison.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 pièces de 150g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "60g"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "quelques brins"
+          },
+          {
+            "nom": "pommes de terre à chair farineuse",
+            "quantite": "800g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60g"
+          },
+          {
+            "nom": "lait",
+            "quantite": "150ml"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          }
+        ],
+        "etapes": [
+          "Éplucher et cuire les pommes de terre dans l'eau bouillante salée pendant 20 minutes. Égoutter et écraser avec le beurre et le lait chaud, assaisonner de sel, poivre et muscade.",
+          "Mélanger la chapelure avec le persil haché. Badigeonner le dessus de chaque pavé de saumon de moutarde, puis appuyer sur la chapelure persillée.",
+          "Déposer les pavés sur une plaque huilée et cuire au four à 200°C pendant 12-15 minutes jusqu'à ce que la croûte soit dorée.",
+          "Dresser les pavés de saumon avec la purée bien chaude et servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Pâtes au jambon, petits pois et crème",
+        "description": "Des pâtes crémeuses rapides à préparer avec jambon, petits pois et une touche de parmesan.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pâtes (penne ou fusilli)",
+            "quantite": "350g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200g"
+          },
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "200g"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "60g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          }
+        ],
+        "etapes": [
+          "Cuire les pâtes al dente dans une grande casserole d'eau bouillante salée selon les indications du paquet.",
+          "Pendant ce temps, faire revenir l'oignon émincé dans le beurre, ajouter le jambon coupé en dés et les petits pois encore surgelés. Cuire 3-4 minutes.",
+          "Verser la crème fraîche, assaisonner de sel, poivre et muscade, laisser mijoter 2 minutes.",
+          "Égoutter les pâtes, les mélanger à la sauce et servir avec le parmesan râpé."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Magret de canard poêlé, sauce orange et gratin de pommes de terre",
+        "description": "Un magret de canard aux notes acidulées d'orange accompagné d'un gratin de pommes de terre fondant.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "magrets de canard",
+            "quantite": "2 pièces (environ 350g chacun)"
+          },
+          {
+            "nom": "jus d'orange frais",
+            "quantite": "150ml"
+          },
+          {
+            "nom": "miel",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "700g"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 gousse"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190°C. Trancher les pommes de terre finement, les disposer dans un plat frotté à l'ail, assaisonner, arroser de crème, parsemer de gruyère et de thym. Enfourner 35 minutes.",
+          "Quadriller le gras du magret au couteau sans entamer la chair. Déposer côté gras dans une poêle froide à feu moyen. Cuire 8-10 minutes côté gras, puis 4-5 minutes côté chair. Réserver sous alu.",
+          "Dans la poêle dégraissée, verser le jus d'orange, le miel, le vinaigre balsamique et le bouillon. Réduire à feu vif 3-4 minutes pour obtenir une sauce sirupeuse.",
+          "Trancher les magrets en biais et servir nappés de sauce orange avec le gratin de pommes de terre."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Sandwich club au poulet et crudités",
+        "description": "Un sandwich club généreux avec poulet, laitue, tomate et sauce légère, idéal pour un midi rapide.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "pain de mie complet",
+            "quantite": "12 tranches"
+          },
+          {
+            "nom": "blanc de poulet cuit ou rôti",
+            "quantite": "300g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "salade verte (laitue)",
+            "quantite": "1 petite"
+          },
+          {
+            "nom": "bacon",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "mayonnaise",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire griller les tranches de bacon à la poêle jusqu'à ce qu'elles soient croustillantes. Toaster légèrement les tranches de pain de mie.",
+          "Mélanger la mayonnaise avec la moutarde et tartiner chaque tranche de pain.",
+          "Monter le club sandwich : une couche de laitue, tomate en rondelles, poulet tranché, bacon, puis recommencer avec une deuxième tranche de pain.",
+          "Maintenir avec des piques, couper en diagonale et servir avec quelques crudités (carottes râpées, tomates cerises)."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Filets de dorade au citron et herbes, couscous de légumes",
+        "description": "Des filets de dorade délicats cuits au citron et aux herbes fraîches, accompagnés d'un couscous parfumé aux légumes.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "filets de dorade",
+            "quantite": "4 pièces (environ 150g chacun)"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "semoule de blé fine",
+            "quantite": "300g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "350ml"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préparer le couscous : faire revenir les courgettes en dés dans l'huile d'olive, ajouter les tomates cerises coupées en deux. Verser le bouillon bouillant sur la semoule, couvrir 5 minutes puis égrener à la fourchette. Mélanger avec les légumes.",
+          "Mélanger l'huile d'olive, le jus d'un citron, l'ail haché, le persil haché et le thym pour faire la marinade.",
+          "Faire chauffer une poêle antiadhésive à feu vif. Badigeonner les filets de dorade de marinade et cuire 3 minutes côté peau, puis 2 minutes côté chair.",
+          "Servir les filets sur le couscous de légumes avec des rondelles de citron."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Pizza maison jambon-champignons",
+        "description": "Une pizza faite maison avec une pâte simple, garnie de champignons, jambon et fromage fondu.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pâte à pizza prête à l'emploi (ou pâte maison)",
+            "quantite": "2 rouleaux (ou 500g de pâte)"
+          },
+          {
+            "nom": "sauce tomate",
+            "quantite": "200g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "250g"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250g"
+          },
+          {
+            "nom": "origan séché",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 230°C. Nettoyer et émincer les champignons, les faire revenir rapidement dans l'huile d'olive avec sel et poivre.",
+          "Étaler la pâte à pizza sur une plaque farinée. Étaler la sauce tomate, parsemer d'origan.",
+          "Disposer les tranches de jambon découpées, les champignons revenus et la mozzarella déchirée en morceaux.",
+          "Enfourner 12-15 minutes jusqu'à ce que la pâte soit dorée et le fromage gratiné. Servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Gigot d'agneau rôti aux herbes, légumes provençaux et gratin de courgettes",
+        "description": "Un gigot d'agneau fondant rôti avec ail et herbes de Provence, accompagné de légumes du soleil et d'un gratin de courgettes.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "gigot d'agneau (raccourci ou épaule)",
+            "quantite": "1,2kg"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "3"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100g"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "romarin",
+            "quantite": "2 branches"
+          }
+        ],
+        "etapes": [
+          "Piquer le gigot de gousses d'ail. Frotter avec l'huile d'olive, les herbes de Provence, le romarin, sel et poivre. Enfourner à 200°C (compter environ 20 min par 500g pour une cuisson rosée).",
+          "Pendant ce temps, trancher les courgettes en rondelles. Les disposer en couches dans un plat à gratin avec les tomates en rondelles et l'oignon émincé. Assaisonner, ajouter la crème fraîche, le thym et le gruyère.",
+          "Enfourner le gratin de courgettes à côté du gigot pour les 25 dernières minutes de cuisson.",
+          "Laisser reposer le gigot 10 minutes sous aluminium avant de le découper et servir avec le gratin et le jus de cuisson."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Galettes de sarrasin au saumon fumé et crème fraîche",
+        "description": "Des galettes bretonnes garnies de saumon fumé, crème fraîche citronnée et œuf, un repas convivial et rapide.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "farine de sarrasin",
+            "quantite": "250g"
+          },
+          {
+            "nom": "eau",
+            "quantite": "500ml"
+          },
+          {
+            "nom": "sel",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "200g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préparer la pâte à galettes en mélangeant la farine de sarrasin, le sel et l'eau jusqu'à obtenir une pâte lisse. Laisser reposer 10 minutes.",
+          "Assaisonner la crème fraîche avec le jus de citron, la ciboulette ciselée, sel et poivre.",
+          "Cuire les galettes dans une poêle beurrée bien chaude. Casser un œuf au centre de chaque galette en fin de cuisson, couvrir et laisser cuire 2-3 minutes.",
+          "Garnir chaque galette de crème citronnée et de tranches de saumon fumé, replier les bords et servir chaud."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Rôti de porc aux pruneaux et carottes glacées",
+        "description": "Un rôti de porc mijoté avec des pruneaux fondants et des carottes glacées au miel, plat familial du dimanche soir.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "rôti de porc filet",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "pruneaux dénoyautés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "500g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "300ml"
+          },
+          {
+            "nom": "miel",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30g"
+          },
+          {
+            "nom": "huile",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire dorer le rôti de porc sur toutes les faces dans la cocotte avec beurre et huile. Réserver. Faire revenir les oignons émincés jusqu'à coloration.",
+          "Remettre le rôti, ajouter les carottes en rondelles, les pruneaux, le bouillon, le thym et le laurier. Couvrir et cuire à feu moyen 30-35 minutes.",
+          "À mi-cuisson, mélanger le miel et la moutarde et badigeonner le rôti pour le glacer.",
+          "Laisser reposer le rôti 5 minutes avant de le trancher. Servir avec les carottes et les pruneaux nappés de jus de cuisson."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "tomates (fraîches)",
+            "quantite": "8 (environ 1,4kg)"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "650g"
+          },
+          {
+            "nom": "haricots verts",
+            "quantite": "800g"
+          },
+          {
+            "nom": "salade verte (romaine)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "salade verte (batavia ou laitue)",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "5"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "500g"
+          },
+          {
+            "nom": "pommes de terre (chair farineuse)",
+            "quantite": "2,5kg"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "250g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "7"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "3"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 têtes"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "4"
+          },
+          {
+            "nom": "oranges (pour jus)",
+            "quantite": "3 (ou 150ml de jus)"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "blanc de poulet cuit ou rôti",
+            "quantite": "300g"
+          },
+          {
+            "nom": "pavés de bœuf (rumsteck ou faux-filet)",
+            "quantite": "4 x 150g (600g)"
+          },
+          {
+            "nom": "magrets de canard",
+            "quantite": "2 pièces (environ 700g)"
+          },
+          {
+            "nom": "rôti de porc filet",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "gigot d'agneau raccourci ou épaule",
+            "quantite": "1,2kg"
+          },
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 x 150g (600g)"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "400g (200g galettes + 200g tartines semaine préc.)"
+          },
+          {
+            "nom": "filets de dorade",
+            "quantite": "4 x 150g (600g)"
+          },
+          {
+            "nom": "anchois en boîte",
+            "quantite": "1 petite boîte (8 filets)"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "environ 800g (4+4+4 tranches + 200g)"
+          },
+          {
+            "nom": "bacon",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "lardons ou bacon pour usage divers",
+            "quantite": "selon besoins"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "pâtes (penne ou fusilli)",
+            "quantite": "350g"
+          },
+          {
+            "nom": "riz blanc",
+            "quantite": "300g"
+          },
+          {
+            "nom": "semoule de blé fine",
+            "quantite": "300g"
+          },
+          {
+            "nom": "farine de sarrasin",
+            "quantite": "250g"
+          },
+          {
+            "nom": "farine de blé",
+            "quantite": "30g"
+          },
+          {
+            "nom": "pain de mie",
+            "quantite": "20 tranches (2 paquets)"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "60g"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "sauce tomate",
+            "quantite": "200g"
+          },
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "200g"
+          },
+          {
+            "nom": "pruneaux dénoyautés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "olives noires",
+            "quantite": "80g"
+          },
+          {
+            "nom": "bouillon de bœuf",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "400ml"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "650ml"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot moyen"
+          },
+          {
+            "nom": "mayonnaise",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "miel",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille (environ 200ml)"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "origan séché",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "6 feuilles"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "sucre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon stock"
+          },
+          {
+            "nom": "pâte à pizza prête à l'emploi",
+            "quantite": "2 rouleaux"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers",
+        "items": [
+          {
+            "nom": "beurre",
+            "quantite": "250g"
+          },
+          {
+            "nom": "lait",
+            "quantite": "400ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "400ml"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "400ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "350g"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "60g"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-06-22",
     "menus": [
       {
