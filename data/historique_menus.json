@@ -1,5 +1,1018 @@
 [
   {
+    "semaine_du": "2026-07-05",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de thon, pois chiches et tomates cerises",
+        "description": "Une salade fraîche et rassasiante mêlant thon en boîte, pois chiches et tomates cerises, assaisonnée d'une vinaigrette au citron et persil.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "pois chiches en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "300g"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Rincer et égoutter les pois chiches, couper les tomates cerises en deux, émincer l'oignon rouge et couper le concombre en demi-rondelles.",
+          "Égoutter le thon et l'émietter grossièrement dans un saladier.",
+          "Préparer la vinaigrette en mélangeant le jus de citron, l'huile d'olive, le sel et le poivre.",
+          "Assembler tous les ingrédients dans le saladier, ajouter le persil ciselé, arroser de vinaigrette et mélanger délicatement."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Poulet à la moutarde et tagliatelles fraîches",
+        "description": "Des escalopes de poulet nappées d'une sauce crémeuse à la moutarde de Dijon, servies avec des tagliatelles fraîches.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "escalopes de poulet",
+            "quantite": "4 pièces (environ 600g)"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Émincer les échalotes et les faire revenir dans un mélange beurre-huile jusqu'à transparence.",
+          "Ajouter les escalopes de poulet, les faire dorer 4 à 5 minutes de chaque côté, puis réserver.",
+          "Déglacer la poêle avec la crème fraîche, incorporer la moutarde, le thym, saler et poivrer, laisser réduire 5 minutes à feu doux, puis remettre le poulet.",
+          "Cuire les tagliatelles selon les instructions du paquet et servir le poulet nappé de sauce sur les pâtes."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Tartines jambon-fromage gratiné et salade verte",
+        "description": "Des tartines généreuses garnies de jambon et fromage fondu, accompagnées d'une simple salade verte — un midi rapide et gourmand.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches épaisses"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "200g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "salade verte (laitue)",
+            "quantite": "1 tête"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four en mode grill. Tartiner chaque tranche de pain de moutarde.",
+          "Déposer une tranche de jambon sur chaque tartine, recouvrir de gruyère râpé.",
+          "Enfourner sous le grill 8 à 10 minutes jusqu'à ce que le fromage soit bien doré et fondu.",
+          "Préparer la salade verte avec tomates coupées, assaisonnée d'huile d'olive, vinaigre, sel et poivre, et servir avec les tartines chaudes."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Filets de lieu noir poêlés, sauce vierge et riz basmati",
+        "description": "Des filets de lieu noir dorés à la poêle, accompagnés d'une fraîche sauce vierge aux tomates et basilic, servie sur un lit de riz basmati.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "filets de lieu noir",
+            "quantite": "4 pièces (environ 600g)"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "6 cuillères à soupe"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Lancer la cuisson du riz basmati selon les indications du paquet.",
+          "Préparer la sauce vierge en mélangeant les tomates coupées en petits dés, l'ail émincé, les câpres, le basilic ciselé, le jus de citron et l'huile d'olive. Saler et poivrer.",
+          "Poêler les filets de lieu noir dans un filet d'huile d'olive, 3 à 4 minutes de chaque côté à feu moyen-vif jusqu'à belle coloration.",
+          "Servir le poisson sur le riz et napper généreusement de sauce vierge."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Soupe de carottes au curry et allumettes de poulet grillé",
+        "description": "Une soupe veloutée de carottes parfumée au curry, accompagnée d'allumettes de poulet grillé pour un repas du midi complet et réconfortant.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "carottes",
+            "quantite": "600g"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "400g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "1,5 cuillère à café"
+          },
+          {
+            "nom": "bouillon de légumes (cube)",
+            "quantite": "1 cube"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Éplucher et couper les carottes et l'oignon en morceaux, faire revenir dans l'huile d'olive avec l'ail et le curry 3 minutes.",
+          "Couvrir d'eau avec le cube de bouillon, cuire 20 minutes jusqu'à ce que les carottes soient tendres, puis mixer avec le lait de coco.",
+          "Couper les blancs de poulet en lanières, les assaisonner de sel, poivre et un peu de curry, les faire griller à la poêle ou au gril 6 à 8 minutes.",
+          "Servir la soupe bien chaude avec les allumettes de poulet grillé posées dessus ou à côté."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Steak haché façon burger maison et frites au four",
+        "description": "Des burgers maison gourmands avec steaks hachés, cheddar fondu, salade et tomate, accompagnés de frites au four légèrement croustillantes.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "steaks hachés 15% MG",
+            "quantite": "4 pièces (600g)"
+          },
+          {
+            "nom": "pains à burger",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "cheddar en tranches",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "pommes de terre à chair ferme",
+            "quantite": "800g"
+          },
+          {
+            "nom": "salade feuille de chêne",
+            "quantite": "1/2 tête"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "ketchup",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 210°C. Couper les pommes de terre en bâtonnets, les enrober d'huile d'olive, saler et enfourner 30 à 35 minutes en les retournant à mi-cuisson.",
+          "Cuire les steaks hachés à la poêle ou au gril, 3 minutes par face, puis déposer une tranche de cheddar et couvrir 1 minute pour le faire fondre.",
+          "Toaster légèrement les pains à burger. Garnir avec la salade, les rondelles de tomate, le steak haché et les sauces.",
+          "Servir les burgers accompagnés des frites au four bien dorées."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Salade de lentilles au saucisson à l'ail et vinaigrette chaude",
+        "description": "Une salade tiède de lentilles vertes du Puy agrémentée de tranches de saucisson à l'ail et d'une vinaigrette moutardée réchauffée.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300g"
+          },
+          {
+            "nom": "saucisson à l'ail",
+            "quantite": "200g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "quelques tiges"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les lentilles dans une grande casserole d'eau froide avec l'oignon, les carottes en rondelles et le bouquet garni, environ 20-25 minutes.",
+          "Pendant ce temps, couper le saucisson à l'ail en rondelles épaisses et les faire revenir 3 minutes dans une poêle pour les tiédir.",
+          "Préparer la vinaigrette chaude en faisant tiédir dans la poêle moutarde, vinaigre et huile d'olive en fouettant.",
+          "Égoutter les lentilles, les mélanger avec le saucisson et la vinaigrette chaude, parsemer de persil ciselé et servir tiède."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Côtes de porc grillées aux herbes de Provence et ratatouille rapide",
+        "description": "Des côtes de porc marinées aux herbes de Provence, grillées et accompagnées d'une ratatouille express de courgettes, aubergines et tomates.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtes de porc",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "2 cuillères à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "6 cuillères à soupe"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Badigeonner les côtes de porc d'huile d'olive, d'herbes de Provence, de sel et poivre et laisser mariner 10 minutes.",
+          "Couper l'aubergine et les courgettes en dés, émincer l'oignon et l'ail, faire revenir dans l'huile d'olive 5 minutes.",
+          "Ajouter les tomates coupées en morceaux, le thym et laisser mijoter la ratatouille 20 minutes à feu moyen en remuant de temps en temps.",
+          "Griller les côtes de porc 5 à 6 minutes par face à feu vif et servir avec la ratatouille."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Wrap au jambon, fromage frais et crudités",
+        "description": "Des wraps généreux garnis de fromage frais herbes, jambon, maïs et crudités, faciles à préparer et parfaits pour le vendredi midi.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "grandes tortillas de blé",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "6 tranches"
+          },
+          {
+            "nom": "fromage frais type St Môret",
+            "quantite": "200g"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 petite boîte (200g)"
+          },
+          {
+            "nom": "laitue",
+            "quantite": "4 feuilles"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1/2 pièce"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Étaler généreusement le fromage frais sur chaque tortilla.",
+          "Déposer les feuilles de laitue, le jambon coupé en lamelles, le maïs égoutté, les tomates cerises coupées et le concombre en bâtonnets.",
+          "Assaisonner d'un peu de sel et poivre, puis rouler les tortillas bien serré.",
+          "Couper chaque wrap en deux en biais et servir immédiatement."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Daurade royale entière au four, citron et herbes, pommes de terre nouvelles rôties",
+        "description": "Une belle daurade royale rôtie au four parfumée de citron, thym et romarin, accompagnée de pommes de terre nouvelles fondantes.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "daurade royale entière",
+            "quantite": "1 pièce d'environ 1,2kg (vidée et écaillée)"
+          },
+          {
+            "nom": "pommes de terre nouvelles",
+            "quantite": "700g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "3 brins"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "5 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Laver les pommes de terre nouvelles, les couper en deux et les disposer dans un plat à four avec les gousses d'ail, arroser d'huile d'olive, saler et enfourner 15 minutes.",
+          "Inciser la daurade sur les deux faces, la farcir de rondelles de citron, de thym et de romarin, badigeonner d'huile d'olive, saler et poivrer.",
+          "Déposer la daurade sur les pommes de terre à mi-cuisson et poursuivre la cuisson 20 à 25 minutes.",
+          "Servir directement du plat, avec des quartiers de citron supplémentaires."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Oeufs cocotte au jambon et champignons",
+        "description": "Des oeufs cocotte fondants préparés avec une garniture de jambon et champignons sautés, cuits au bain-marie pour un résultat onctueux.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "oeufs",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "250g"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "8 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "quelques tiges"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches (pour accompagner)"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 180°C. Nettoyer et émincer les champignons, les faire revenir dans le beurre 5 minutes. Couper le jambon en petits dés.",
+          "Beurrer 4 ramequins, répartir le jambon et les champignons au fond de chacun.",
+          "Verser 2 cuillères de crème fraîche dans chaque ramequin, casser 2 oeufs délicatement par-dessus, saler, poivrer.",
+          "Cuire au bain-marie au four pendant 12 à 15 minutes selon la cuisson désirée. Parsemer de ciboulette et servir avec le pain grillé."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Entrecôte grillée au beurre d'herbes et gratin de courgettes",
+        "description": "Une belle entrecôte grillée à point, surmontée d'un beurre persillé fondant, accompagnée d'un gratin de courgettes crémeux et doré.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "entrecôtes de boeuf",
+            "quantite": "4 pièces (environ 800g)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100g"
+          },
+          {
+            "nom": "beurre doux",
+            "quantite": "60g"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Couper les courgettes en rondelles, les disposer dans un plat à gratin en les superposant légèrement, napper de crème fraîche, parsemer de gruyère râpé, saler et enfourner 25 minutes.",
+          "Préparer le beurre d'herbes en mélangeant le beurre ramolli avec le persil ciselé et l'ail émincé, saler et poivrer. Former un boudin dans du papier film et réserver au frais.",
+          "Faire chauffer une poêle grill ou poêle très chaude, badigeonner les entrecôtes d'huile d'olive, les cuire 3 à 4 minutes par face selon l'épaisseur et la cuisson désirée.",
+          "Laisser reposer les entrecôtes 2 minutes sous du papier aluminium, déposer une belle tranche de beurre d'herbes sur chacune et servir avec le gratin de courgettes."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Blanquette de veau simplifiée et riz blanc",
+        "description": "Une blanquette de veau fondante à la sauce crémeuse citronnée, préparée en version simplifiée pour rester dans les temps, servie avec du riz blanc.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "épaule de veau coupée en morceaux",
+            "quantite": "800g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "200g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "jaune d'oeuf",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "riz blanc",
+            "quantite": "300g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Blanchir les morceaux de veau dans l'eau bouillante 5 minutes, égoutter et rincer. Les remettre dans la casserole avec l'oignon, les carottes en rondelles, le bouquet garni, couvrir d'eau froide et cuire 30 minutes.",
+          "Dans une autre casserole, préparer un roux avec le beurre et la farine, verser progressivement 400ml du bouillon de cuisson filtré en fouettant jusqu'à épaississement.",
+          "Mélanger la crème fraîche et les jaunes d'oeufs avec le jus de citron, incorporer hors du feu à la sauce. Ajouter le veau, les carottes et les champignons sautés.",
+          "Cuire le riz blanc selon les instructions du paquet et servir la blanquette bien chaude sur le riz."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Soupe de poireaux et pommes de terre avec lardons dorés",
+        "description": "Une soupe veloutée réconfortante de poireaux et pommes de terre, agrémentée de lardons fumés bien dorés pour un dîner du dimanche soir tout en douceur.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "poireaux",
+            "quantite": "4 pièces (blancs et verts tendres)"
+          },
+          {
+            "nom": "pommes de terre à chair farineuse",
+            "quantite": "400g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "200g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "bouillon de légumes (cube)",
+            "quantite": "2 cubes"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches (pour accompagner)"
+          }
+        ],
+        "etapes": [
+          "Laver et émincer les poireaux, éplucher et couper les pommes de terre en dés, émincer l'oignon. Faire revenir le tout dans le beurre 5 minutes dans une grande casserole.",
+          "Couvrir avec 1,2 litre d'eau chaude et les cubes de bouillon, saler légèrement et cuire à couvert environ 25 minutes jusqu'à ce que les légumes soient tendres.",
+          "Mixer la soupe, incorporer la crème fraîche, rectifier l'assaisonnement.",
+          "Faire sauter les lardons fumés à la poêle sans matière grasse jusqu'à ce qu'ils soient bien dorés, les parsemer sur la soupe et servir avec le pain grillé."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "tomates cerises",
+            "quantite": "500g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "10 pièces"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1,5 pièce"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "6 pièces"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "1,3kg"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "poireaux",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "pommes de terre nouvelles",
+            "quantite": "700g"
+          },
+          {
+            "nom": "pommes de terre à chair ferme",
+            "quantite": "800g"
+          },
+          {
+            "nom": "pommes de terre à chair farineuse",
+            "quantite": "400g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "650g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 têtes"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "6 pièces"
+          },
+          {
+            "nom": "salade laitue",
+            "quantite": "1,5 tête"
+          },
+          {
+            "nom": "salade feuille de chêne",
+            "quantite": "0,5 tête"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 botte"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "1 botte"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "2 pièces"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "escalopes de poulet",
+            "quantite": "4 pièces (environ 600g)"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "400g"
+          },
+          {
+            "nom": "steaks hachés 15% MG",
+            "quantite": "4 pièces (600g)"
+          },
+          {
+            "nom": "entrecôtes de boeuf",
+            "quantite": "4 pièces (environ 800g)"
+          },
+          {
+            "nom": "côtes de porc",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "épaule de veau en morceaux",
+            "quantite": "800g"
+          },
+          {
+            "nom": "filets de lieu noir",
+            "quantite": "4 pièces (environ 600g)"
+          },
+          {
+            "nom": "daurade royale entière (vidée et écaillée)",
+            "quantite": "1 pièce (environ 1,2kg)"
+          },
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "18 tranches"
+          },
+          {
+            "nom": "saucisson à l'ail",
+            "quantite": "200g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "200g"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers",
+        "items": [
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "600ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "fromage frais type St Môret",
+            "quantite": "200g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "300g"
+          },
+          {
+            "nom": "cheddar en tranches",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "beurre doux",
+            "quantite": "200g"
+          },
+          {
+            "nom": "jaunes d'oeufs",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "oeufs",
+            "quantite": "10 pièces"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "200ml"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "pois chiches en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 petite boîte (200g)"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300g"
+          },
+          {
+            "nom": "riz blanc",
+            "quantite": "300g"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400g"
+          },
+          {
+            "nom": "grandes tortillas de blé",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "pains à burger",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "1 gros pain (environ 20 tranches)"
+          },
+          {
+            "nom": "farine",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot (200g)"
+          },
+          {
+            "nom": "moutarde classique",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "ketchup",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille (500ml minimum)"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "bouillon de légumes en cubes",
+            "quantite": "3 cubes"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon stock"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-06-28",
     "menus": [
       {
