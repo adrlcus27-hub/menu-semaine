@@ -1,5 +1,1047 @@
 [
   {
+    "semaine_du": "2026-07-12",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de poulet rôti, avocat et maïs",
+        "description": "Une salade fraîche et rassasiante avec des lanières de poulet rôti, de l'avocat crémeux et du maïs doux.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "blancs de poulet",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "avocats mûrs",
+            "quantite": "2"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 boîte (285 g égoutté)"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "salade verte (roquette ou mâche)",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les blancs de poulet à la poêle avec un filet d'huile d'olive, sel et poivre, puis les trancher en lamelles.",
+          "Couper les avocats en dés, les tomates cerises en deux, et disposer le tout sur un lit de salade verte avec le maïs.",
+          "Ajouter les lamelles de poulet par-dessus.",
+          "Préparer la vinaigrette avec jus de citron, huile d'olive, sel et poivre, et arroser la salade."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Saumon en papillote au citron et légumes printaniers",
+        "description": "Des pavés de saumon cuits en papillote avec des courgettes, carottes et herbes fraîches pour un repas léger et parfumé.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300 g"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200 °C. Tailler les courgettes et carottes en fins bâtonnets.",
+          "Disposer chaque pavé de saumon sur une feuille de papier aluminium, ajouter les légumes, une rondelle de citron, une noisette de beurre et de l'aneth. Fermer les papillotes.",
+          "Enfourner 20 minutes pendant que le riz cuit dans l'eau salée.",
+          "Servir les papillotes ouvertes à table avec le riz basmati."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Tartines au thon, tomates et herbes fraîches",
+        "description": "Des tartines croustillantes garnies de thon à l'huile, de tomates fraîches et de basilic, passées quelques minutes au four.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "pain de campagne (tranches épaisses)",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "2 boîtes (320 g total égoutté)"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "fromage râpé (emmental)",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four en mode grill. Émietter le thon et mélanger avec les câpres, un filet d'huile d'olive, sel et poivre.",
+          "Disposer les tranches de pain sur une plaque, les tartiner du mélange de thon.",
+          "Ajouter des rondelles de tomate et saupoudrer de fromage râpé.",
+          "Passer sous le grill 5 minutes jusqu'à gratinage, garnir de basilic frais avant de servir."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Poulet à la crème et champignons, tagliatelles",
+        "description": "Un plat réconfortant de morceaux de poulet mijotés dans une sauce crémeuse aux champignons, servis avec des tagliatelles.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de poulet désossées",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "tagliatelles",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Émincer l'oignon et l'ail, couper les champignons en lamelles, et les faire revenir dans le beurre et l'huile jusqu'à coloration.",
+          "Ajouter les morceaux de poulet découpés en dés et les faire dorer de toutes parts.",
+          "Incorporer la crème fraîche, assaisonner, et laisser mijoter à feu doux 15 minutes.",
+          "Cuire les tagliatelles al dente, les égoutter et servir avec la sauce, parsemé de persil haché."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Soupe de poisson et croûtons aillés",
+        "description": "Une soupe de poisson maison savoureuse, servie avec des croûtons frottés à l'ail et un filet de crème.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "filets de cabillaud",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte (400 g)"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "bouquet garni (thym, laurier)",
+            "quantite": "1"
+          },
+          {
+            "nom": "concentré de tomate",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "pain de campagne (tranches)",
+            "quantite": "8 tranches fines"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé et l'ail dans l'huile d'olive, ajouter les tomates, le concentré, le bouquet garni et 800 ml d'eau. Laisser mijoter 10 minutes.",
+          "Ajouter les filets de cabillaud coupés en morceaux et cuire encore 10 minutes à feu doux.",
+          "Retirer le bouquet garni, mixer la soupe grossièrement, rectifier l'assaisonnement.",
+          "Griller les tranches de pain, les frotter avec une gousse d'ail coupée, et servir avec la soupe et un trait de crème."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Escalopes de dinde panées et purée maison",
+        "description": "Des escalopes de dinde dorées dans une panure croustillante, accompagnées d'une purée de pommes de terre onctueuse.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "escalopes de dinde",
+            "quantite": "4 (environ 150 g chacune)"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "2"
+          },
+          {
+            "nom": "farine",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "lait",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre, muscade",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Éplucher et cuire les pommes de terre à l'eau salée pendant 20 minutes.",
+          "Paner les escalopes dans la farine, puis l'œuf battu, puis la chapelure.",
+          "Faire dorer les escalopes panées dans l'huile chaude, 4 minutes de chaque côté, jusqu'à belle coloration.",
+          "Écraser les pommes de terre avec le beurre, le lait chaud, sel, poivre et muscade pour obtenir une purée lisse. Servir avec les escalopes."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Salade de pâtes au jambon, mozzarella et tomates",
+        "description": "Une salade de pâtes colorée et généreuse avec des dés de jambon, de la mozzarella fraîche et des tomates cerises.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pâtes (fusilli ou penne)",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200 g (en tranches épaisses)"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les pâtes al dente dans une grande quantité d'eau salée, égoutter et laisser tiédir.",
+          "Couper le jambon en dés, la mozzarella en morceaux, et les tomates cerises en deux.",
+          "Mélanger tous les ingrédients dans un saladier avec les olives.",
+          "Assaisonner avec l'huile d'olive, le vinaigre balsamique, sel, poivre et parsemer de basilic."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Tajine d'agneau aux légumes et semoule",
+        "description": "Un tajine parfumé avec des morceaux d'agneau mijotés aux épices douces, accompagné de semoule moelleuse.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "épaule d'agneau en morceaux",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "3"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte (400 g)"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "curcuma",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "cannelle en poudre",
+            "quantite": "1/2 cuillère à café"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "semoule moyenne",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire dorer les morceaux d'agneau dans l'huile d'olive avec les oignons émincés et l'ail, puis ajouter les épices.",
+          "Ajouter les carottes en rondelles, les tomates et un verre d'eau, couvrir et laisser mijoter 20 minutes.",
+          "Ajouter les courgettes en dés et poursuivre la cuisson 10 minutes à feu doux.",
+          "Préparer la semoule en versant de l'eau bouillante salée dessus, couvrir 5 minutes puis égrener avec le beurre. Servir avec le tajine."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Sandwichs au jambon, fromage et crudités rapides",
+        "description": "Un repas express avec des sandwichs garnis de jambon, fromage à pâte dure et crudités croquantes.",
+        "temps_minutes": 10,
+        "ingredients": [
+          {
+            "nom": "baguettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "fromage (comté ou gruyère)",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "salade verte (feuilles)",
+            "quantite": "8 feuilles"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "8"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "moutarde",
+            "quantite": "2 cuillères à café"
+          }
+        ],
+        "etapes": [
+          "Couper les baguettes en deux dans la longueur et les tartiner légèrement de beurre et de moutarde.",
+          "Disposer les feuilles de salade, les tranches de jambon et les rondelles de tomate.",
+          "Ajouter des lamelles de fromage et les cornichons.",
+          "Refermer les sandwichs et servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Filets de lieu jaune poêlés, sauce au citron beurré et haricots verts",
+        "description": "Des filets de lieu jaune dorés à la poêle, nappés d'une sauce beurre-citron légère et servis avec des haricots verts.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "filets de lieu jaune",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "haricots verts frais ou surgelés",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 gousse"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les haricots verts à l'eau bouillante salée 8 à 10 minutes, égoutter et réserver au chaud.",
+          "Poêler les filets de lieu jaune dans l'huile d'olive 3 minutes de chaque côté, saler et poivrer.",
+          "Dans la même poêle, faire fondre le beurre avec l'ail émincé et le jus de citron pour obtenir une sauce beurre-citron.",
+          "Disposer les haricots verts dans les assiettes, poser le filet de poisson par-dessus, napper de sauce et parsemer de persil haché."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Quiche saumon-épinards",
+        "description": "Une quiche savoureuse au saumon fumé et épinards frais, facile à préparer pour un déjeuner du week-end.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "pâte brisée prête à dérouler",
+            "quantite": "1 rouleau"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "épinards frais ou surgelés",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "3"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "lait",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "10 g"
+          },
+          {
+            "nom": "sel, poivre, muscade",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 180 °C. Foncer un moule à tarte avec la pâte brisée et la piquer à la fourchette.",
+          "Faire revenir les épinards dans le beurre jusqu'à ce qu'ils réduisent, laisser tiédir et presser pour retirer l'excès d'eau.",
+          "Battre les œufs avec la crème, le lait, sel, poivre et une pincée de muscade. Incorporer les épinards.",
+          "Disposer le saumon fumé en morceaux sur le fond de tarte, verser l'appareil, saupoudrer d'emmental et cuire 30 minutes."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Côte de bœuf partagée, sauce béarnaise maison et frites au four",
+        "description": "Un repas festif du samedi soir avec une belle côte de bœuf rôtie, une sauce béarnaise simplifiée et des frites maison au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côte de bœuf",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "pommes de terre à chair ferme",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "3"
+          },
+          {
+            "nom": "estragon frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "vinaigre de vin blanc",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "jaunes d'œufs",
+            "quantite": "2"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper les pommes de terre en frites, les enrober d'huile d'olive, saler et enfourner à 200 °C pendant 30 minutes en retournant à mi-cuisson.",
+          "Sortir la côte de bœuf 30 minutes à l'avance. La saisir dans une poêle très chaude 4 à 5 minutes de chaque côté, puis laisser reposer sous aluminium.",
+          "Préparer la béarnaise : réduire le vinaigre avec les échalotes hachées et l'estragon, filtrer, puis monter les jaunes d'œufs avec le beurre fondu progressivement au bain-marie.",
+          "Trancher la côte de bœuf, servir avec les frites et la sauce béarnaise."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Velouté de petits pois au lard et mouillettes de pain grillé",
+        "description": "Un velouté doux et printanier de petits pois agrémenté de lardons dorés, accompagné de mouillettes de pain grillé croustillant.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "bouillon de légumes (cube ou liquide)",
+            "quantite": "800 ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "pain de campagne (tranches)",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "menthe fraîche (optionnel)",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé dans le beurre, ajouter les petits pois et le bouillon, cuire 10 minutes à frémissement.",
+          "Mixer finement le tout avec la crème fraîche, rectifier l'assaisonnement et ajouter quelques feuilles de menthe si désiré.",
+          "Faire revenir les lardons à sec dans une poêle jusqu'à ce qu'ils soient bien dorés.",
+          "Griller les tranches de pain, servir le velouté chaud avec les lardons parsemés et les mouillettes à côté."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Rôti de veau aux herbes, carottes et pommes de terre rôties",
+        "description": "Un rôti de veau fondant parfumé aux herbes de Provence, entouré de carottes et pommes de terre rôties au four pour un dimanche soir convivial.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "rôti de veau ficelé",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "bouillon de veau (cube ou liquide)",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190 °C. Éplucher et couper les carottes en tronçons, les pommes de terre en quartiers et les oignons en deux.",
+          "Faire dorer le rôti de veau dans un plat allant au four avec le beurre et l'huile sur toutes ses faces.",
+          "Disposer les légumes et les gousses d'ail autour du rôti, ajouter les herbes, verser le bouillon et enfourner 45 à 50 minutes en arrosant toutes les 15 minutes.",
+          "Laisser reposer le rôti 10 minutes sous aluminium avant de le trancher, servir avec les légumes rôtis et le jus de cuisson."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "avocats mûrs",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "4"
+          },
+          {
+            "nom": "salade verte (roquette, mâche ou feuilles)",
+            "quantite": "100 g + 8 feuilles"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "4"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "9"
+          },
+          {
+            "nom": "haricots verts frais ou surgelés",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "épinards frais ou surgelés",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "3,8 kg"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "7"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "3"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 tête (environ 12 gousses)"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "3"
+          },
+          {
+            "nom": "menthe fraîche",
+            "quantite": "1 petit bouquet"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "estragon frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "blancs de poulet",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "cuisses de poulet désossées",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "escalopes de dinde",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "épaule d'agneau en morceaux",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "côte de bœuf",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "rôti de veau ficelé",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "jambon blanc (tranches)",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "filets de cabillaud",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "filets de lieu jaune",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "3 boîtes (environ 480 g égoutté)"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers",
+        "items": [
+          {
+            "nom": "beurre",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "400 ml"
+          },
+          {
+            "nom": "lait",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "160 g"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "fromage comté ou gruyère",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "12"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "riz basmati",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "tagliatelles",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "pâtes (fusilli ou penne)",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "semoule moyenne",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 boîte (285 g égoutté)"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "2 boîtes (400 g chacune)"
+          },
+          {
+            "nom": "concentré de tomate",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 bocal"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "8"
+          },
+          {
+            "nom": "moutarde",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de vin blanc",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "250 ml"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "bouillon de légumes (cubes ou liquide)",
+            "quantite": "800 ml"
+          },
+          {
+            "nom": "bouillon de veau (cube ou liquide)",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "curcuma",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "cannelle en poudre",
+            "quantite": "1/2 cuillère à café"
+          },
+          {
+            "nom": "muscade en poudre",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "bouquet garni (thym, laurier)",
+            "quantite": "1"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon besoin"
+          }
+        ]
+      },
+      {
+        "rayon": "Boulangerie & Féculents",
+        "items": [
+          {
+            "nom": "pain de campagne (tranches)",
+            "quantite": "1 gros pain tranché (environ 24 tranches)"
+          },
+          {
+            "nom": "baguettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "pâte brisée prête à dérouler",
+            "quantite": "1 rouleau"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-07-05",
     "menus": [
       {
