@@ -1,5 +1,990 @@
 [
   {
+    "semaine_du": "2026-07-19",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de poulet grillé, avocat et quinoa",
+        "description": "Une salade fraîche et nourrissante avec des lanières de poulet grillé, de l'avocat et du quinoa.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "filets de poulet",
+            "quantite": "600g"
+          },
+          {
+            "nom": "quinoa",
+            "quantite": "200g"
+          },
+          {
+            "nom": "avocats",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "salade verte (roquette)",
+            "quantite": "100g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Cuire le quinoa dans de l'eau bouillante salée pendant 12 minutes, égoutter et laisser refroidir.",
+          "Griller les filets de poulet assaisonnés dans une poêle avec un filet d'huile d'olive, puis les couper en lanières.",
+          "Couper les avocats en dés et les tomates cerises en deux, mélanger avec la roquette et le quinoa.",
+          "Assaisonner avec le jus de citron, l'huile d'olive, sel et poivre, puis disposer le poulet sur la salade."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Cabillaud au four à la provençale et pommes de terre sautées",
+        "description": "Des pavés de cabillaud cuits au four sur un lit de tomates et herbes provençales, accompagnés de pommes de terre sautées.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pavés de cabillaud",
+            "quantite": "4 (environ 150g chacun)"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "4"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "thym",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "romarin",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "800g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Couper les pommes de terre en dés et les faire sauter dans une poêle avec de l'huile jusqu'à ce qu'elles soient dorées.",
+          "Dans un plat à four, déposer les tomates coupées en rondelles, l'ail émincé, le thym et le romarin avec un filet d'huile d'olive.",
+          "Poser les pavés de cabillaud sur les tomates, saler, poivrer et enfourner 15 à 18 minutes.",
+          "Servir le cabillaud avec les pommes de terre sautées et parsemer de persil frais ciselé."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Tartines de rillettes de sardines et concombre",
+        "description": "Des tartines gourmandes à base de rillettes de sardines maison servies avec des rondelles de concombre.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "sardines en conserve à l'huile",
+            "quantite": "2 boîtes (200g total égoutté)"
+          },
+          {
+            "nom": "fromage frais (type Saint-Morêt)",
+            "quantite": "100g"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "quelques tiges"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Égoutter les sardines et les écraser à la fourchette avec le fromage frais, le jus de citron et la ciboulette ciselée.",
+          "Assaisonner de sel et poivre, bien mélanger pour obtenir une pâte homogène.",
+          "Toaster les tranches de pain de campagne et tartiner généreusement de rillettes de sardines.",
+          "Servir avec des rondelles de concombre et quelques tiges de ciboulette pour décorer."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Rôti de bœuf en cocotte, carottes et champignons",
+        "description": "Un rôti de bœuf mijoté doucement en cocotte avec des carottes et des champignons pour un plat familial réconfortant.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "rôti de bœuf",
+            "quantite": "900g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "4"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "bouillon de bœuf",
+            "quantite": "300ml"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "thym",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "huile",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Faire dorer le rôti sur toutes ses faces dans une cocotte avec de l'huile chaude, puis le réserver.",
+          "Faire revenir les oignons émincés, les carottes en rondelles et les champignons coupés en quartiers dans la même cocotte.",
+          "Remettre le rôti, ajouter le bouillon, le concentré de tomates, le thym, saler et poivrer, puis couvrir et cuire 25 minutes à feu moyen.",
+          "Trancher le rôti et servir avec les légumes et le jus de cuisson."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Potage Saint-Germain aux lardons",
+        "description": "Un velouté onctueux de petits pois frais ou surgelés accompagné de lardons grillés et de pain grillé.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "600g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "800ml"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "pain de mie",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé dans le beurre, puis ajouter les petits pois et le bouillon, cuire 10 minutes.",
+          "Mixer finement le tout, incorporer la crème fraîche, rectifier l'assaisonnement.",
+          "Faire griller les lardons à sec dans une poêle jusqu'à ce qu'ils soient dorés.",
+          "Toaster le pain de mie, servir le velouté chaud avec les lardons et les mouillettes."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Poêlée de gambas à l'ail et persil, riz créole",
+        "description": "Des gambas sautées rapidement à l'ail et au persil, servies sur un lit de riz blanc parfumé.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "gambas crues décortiquées",
+            "quantite": "600g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Cuire le riz basmati dans de l'eau bouillante salée selon le temps indiqué sur le paquet.",
+          "Faire chauffer l'huile et le beurre dans une grande poêle, faire revenir l'ail émincé 1 minute.",
+          "Ajouter les gambas et les faire sauter à feu vif 3 à 4 minutes de chaque côté jusqu'à ce qu'elles soient roses.",
+          "Parsemer de persil ciselé, arroser de jus de citron et servir aussitôt avec le riz."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Wrap au thon, maïs et fromage frais",
+        "description": "Des wraps garnis de thon émietté, maïs, fromage frais et salade pour un déjeuner rapide et savoureux.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "thon en conserve au naturel",
+            "quantite": "2 boîtes (280g total égoutté)"
+          },
+          {
+            "nom": "maïs en conserve",
+            "quantite": "200g"
+          },
+          {
+            "nom": "fromage frais (type Philadelphia)",
+            "quantite": "150g"
+          },
+          {
+            "nom": "galettes de blé (tortillas)",
+            "quantite": "4"
+          },
+          {
+            "nom": "salade iceberg",
+            "quantite": "4 feuilles"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Égoutter le thon et le maïs, puis mélanger le thon avec le fromage frais et le jus de citron, saler et poivrer.",
+          "Couper les tomates en petits dés.",
+          "Étaler la préparation au thon sur chaque tortilla, ajouter les dés de tomates, le maïs et une feuille de salade.",
+          "Rouler les wraps fermement en repliant les bords et les couper en deux avant de servir."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Poulet rôti au citron et herbes, légumes du soleil au four",
+        "description": "Des cuisses de poulet rôties au citron avec du thym, accompagnées de courgettes et tomates rôties au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "thym",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "3"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 210°C. Badigeonner les cuisses de poulet d'huile d'olive, jus de citron, ail émincé, thym, sel et poivre.",
+          "Couper les courgettes en rondelles et les tomates en quartiers, les disposer dans un grand plat à four, arroser d'huile et saupoudrer d'herbes de Provence.",
+          "Déposer les cuisses de poulet sur les légumes et enfourner pour 30 à 35 minutes en retournant à mi-cuisson.",
+          "Vérifier la cuisson du poulet (jus clair), servir directement dans le plat."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Soupe de lentilles corail au lait de coco et saucisse",
+        "description": "Une soupe réconfortante et épicée de lentilles corail au lait de coco avec des rondelles de saucisse fumée.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "lentilles corail",
+            "quantite": "250g"
+          },
+          {
+            "nom": "saucisse fumée (type Montbéliard)",
+            "quantite": "2 (environ 300g)"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "800ml"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé dans l'huile, ajouter le curry et cuire 1 minute.",
+          "Ajouter les lentilles corail rincées, le bouillon et porter à ébullition, puis cuire 15 minutes à feu moyen.",
+          "Pendant ce temps, couper la saucisse en rondelles et les faire griller dans une poêle.",
+          "Ajouter le lait de coco à la soupe, mixer partiellement ou laisser en morceaux, rectifier l'assaisonnement et servir avec les rondelles de saucisse."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Truite saumonée en papillote aux légumes croquants et riz sauvage",
+        "description": "Des filets de truite saumonée cuits en papillote avec des légumes fins et des herbes, accompagnés de riz sauvage.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "filets de truite saumonée",
+            "quantite": "4 (environ 150g chacun)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "quelques tiges"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40g"
+          },
+          {
+            "nom": "riz sauvage mélangé",
+            "quantite": "300g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190°C. Cuire le riz selon les indications du paquet.",
+          "Tailler les courgettes et les carottes en fins bâtonnets (julienne).",
+          "Former 4 papillotes avec du papier aluminium : déposer les légumes, puis le filet de truite, une noisette de beurre, une rondelle de citron et de l'aneth, saler et poivrer avant de fermer hermétiquement.",
+          "Enfourner 18 à 20 minutes et servir les papillotes ouvertes à table avec le riz."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Crêpes salées au jambon et fromage râpé",
+        "description": "Des crêpes de blé garnies de jambon blanc, fromage râpé et béchamel légère, gratinées au four.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "farine",
+            "quantite": "200g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "3"
+          },
+          {
+            "nom": "lait",
+            "quantite": "500ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "fromage râpé (emmental)",
+            "quantite": "150g"
+          },
+          {
+            "nom": "lait (pour béchamel)",
+            "quantite": "250ml"
+          },
+          {
+            "nom": "farine (pour béchamel)",
+            "quantite": "20g"
+          },
+          {
+            "nom": "muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préparer la pâte à crêpes en mélangeant farine, œufs, lait et une pincée de sel, laisser reposer 10 minutes puis cuire les crêpes.",
+          "Préparer une béchamel légère avec le beurre, la farine, le lait, la muscade, sel et poivre.",
+          "Garnir chaque crêpe d'une tranche de jambon, d'une cuillerée de béchamel et de fromage râpé, puis les rouler et les disposer dans un plat à gratin.",
+          "Napper du reste de béchamel, saupoudrer de fromage râpé et gratiner 10 minutes au four à 200°C."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Côte d'agneau grillée au romarin et gratin dauphinois",
+        "description": "Des côtes d'agneau marinées au romarin et à l'ail, grillées à la poêle, accompagnées d'un gratin dauphinois.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtes d'agneau",
+            "quantite": "8"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "pommes de terre à chair ferme",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "300ml"
+          },
+          {
+            "nom": "lait",
+            "quantite": "100ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100g"
+          },
+          {
+            "nom": "ail (pour gratin)",
+            "quantite": "1 gousse"
+          },
+          {
+            "nom": "sel, poivre, muscade",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 180°C. Frotter le plat à gratin avec la gousse d'ail, disposer les pommes de terre en fines rondelles, mélanger crème, lait, muscade, sel et poivre, verser sur les pommes de terre et enfourner 30 minutes.",
+          "Mariner les côtes d'agneau avec l'huile d'olive, l'ail émincé et le romarin effeuilleé pendant 15 minutes.",
+          "Sortir le gratin, parsemer de gruyère et remettre au four 10 minutes pour gratiner.",
+          "Griller les côtes d'agneau à feu vif dans une poêle 3 à 4 minutes de chaque côté, laisser reposer 2 minutes sous aluminium et servir avec le gratin."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Salade composée au magret de canard fumé et lentilles vertes",
+        "description": "Une salade élégante mêlant lentilles vertes tièdes, tranches de magret fumé, tomates cerises et vinaigrette à l'échalote.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300g"
+          },
+          {
+            "nom": "magret de canard fumé tranché",
+            "quantite": "200g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "mesclun",
+            "quantite": "80g"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Cuire les lentilles dans de l'eau froide non salée pendant 20 minutes, égoutter et tiédir.",
+          "Préparer la vinaigrette en mélangeant les échalotes finement ciselées, la moutarde, le vinaigre, l'huile d'olive, sel et poivre.",
+          "Assaisonner les lentilles tièdes avec la vinaigrette, les disposer sur un lit de mesclun.",
+          "Déposer les tranches de magret fumé et les tomates cerises coupées en deux, servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Filets de sole meunière et haricots verts sautés",
+        "description": "Un classique de la cuisine française : des filets de sole dorés au beurre citronné, servis avec des haricots verts sautés à l'ail.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "filets de sole",
+            "quantite": "8 (environ 800g)"
+          },
+          {
+            "nom": "farine",
+            "quantite": "80g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "80g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "haricots verts fins",
+            "quantite": "600g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Blanchir les haricots verts dans de l'eau bouillante salée 5 minutes, égoutter et réserver.",
+          "Fariner légèrement les filets de sole sur les deux faces, secouer l'excédent.",
+          "Faire fondre le beurre dans une poêle à feu moyen-vif, cuire les filets de sole 2 à 3 minutes par côté jusqu'à dorure, ajouter le jus de citron et le persil en fin de cuisson.",
+          "Faire sauter les haricots verts avec l'ail émincé dans l'huile d'olive 3 minutes, saler et poivrer, servir avec les filets de sole."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "avocats",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "600g"
+          },
+          {
+            "nom": "roquette",
+            "quantite": "100g"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "10"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "12"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 tête entière + quelques gousses supplémentaires (environ 20 gousses au total)"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "4"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "4"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "10"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "7"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1"
+          },
+          {
+            "nom": "salade iceberg",
+            "quantite": "1 petite"
+          },
+          {
+            "nom": "mesclun",
+            "quantite": "80g"
+          },
+          {
+            "nom": "haricots verts fins",
+            "quantite": "600g"
+          },
+          {
+            "nom": "pommes de terre à chair ferme",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "pommes de terre (cuisson four/sautées)",
+            "quantite": "800g"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 bouquet"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "filets de poulet",
+            "quantite": "600g"
+          },
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4"
+          },
+          {
+            "nom": "rôti de bœuf",
+            "quantite": "900g"
+          },
+          {
+            "nom": "côtes d'agneau",
+            "quantite": "8"
+          },
+          {
+            "nom": "saucisse fumée type Montbéliard",
+            "quantite": "2 (environ 300g)"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "magret de canard fumé tranché",
+            "quantite": "200g"
+          },
+          {
+            "nom": "pavés de cabillaud",
+            "quantite": "4 (environ 600g)"
+          },
+          {
+            "nom": "gambas crues décortiquées",
+            "quantite": "600g"
+          },
+          {
+            "nom": "filets de truite saumonée",
+            "quantite": "4 (environ 600g)"
+          },
+          {
+            "nom": "filets de sole",
+            "quantite": "8 (environ 800g)"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "quinoa",
+            "quantite": "200g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "600g"
+          },
+          {
+            "nom": "riz sauvage mélangé",
+            "quantite": "300g"
+          },
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300g"
+          },
+          {
+            "nom": "lentilles corail",
+            "quantite": "250g"
+          },
+          {
+            "nom": "petits pois surgelés",
+            "quantite": "600g"
+          },
+          {
+            "nom": "sardines en conserve à l'huile",
+            "quantite": "2 boîtes"
+          },
+          {
+            "nom": "thon en conserve au naturel",
+            "quantite": "3 boîtes (soit environ 420g égoutté)"
+          },
+          {
+            "nom": "maïs en conserve",
+            "quantite": "200g"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "200ml"
+          },
+          {
+            "nom": "bouillon de bœuf (cubes ou liquide)",
+            "quantite": "300ml"
+          },
+          {
+            "nom": "bouillon de légumes (cubes ou liquide)",
+            "quantite": "1,6L"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "farine",
+            "quantite": "300g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille (500ml)"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 flacon"
+          },
+          {
+            "nom": "muscade en poudre",
+            "quantite": "1 flacon"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          },
+          {
+            "nom": "galettes de blé / tortillas",
+            "quantite": "4"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "1 miche (environ 500g)"
+          },
+          {
+            "nom": "pain de mie",
+            "quantite": "1 sachet"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers & œufs",
+        "items": [
+          {
+            "nom": "beurre",
+            "quantite": "300g"
+          },
+          {
+            "nom": "crème fraîche liquide entière",
+            "quantite": "600ml"
+          },
+          {
+            "nom": "lait demi-écrémé",
+            "quantite": "1,35L"
+          },
+          {
+            "nom": "fromage frais (Saint-Morêt ou Philadelphia)",
+            "quantite": "250g"
+          },
+          {
+            "nom": "fromage râpé emmental",
+            "quantite": "150g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-07-12",
     "menus": [
       {
