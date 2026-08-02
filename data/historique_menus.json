@@ -1,5 +1,1150 @@
 [
   {
+    "semaine_du": "2026-08-02",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de lentilles au poulet rôti et vinaigrette moutardée",
+        "description": "Une salade fraîche et nourrissante de lentilles vertes tièdes, effilochées de poulet rôti et vinaigrette maison.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "lentilles vertes cuites (en boîte)",
+            "quantite": "2 boîtes de 400g"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "600g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les blancs de poulet à la poêle avec un filet d'huile d'olive, sel et poivre pendant 12-15 min, puis les effilocher en morceaux.",
+          "Égoutter et rincer les lentilles, couper les tomates cerises en deux et émincer l'oignon rouge finement.",
+          "Préparer la vinaigrette en mélangeant moutarde, vinaigre, huile d'olive, sel et poivre.",
+          "Assembler la salade : lentilles, poulet, tomates, oignon, persil ciselé, et arroser de vinaigrette."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Filets de daurade grillés, ratatouille express et riz basmati",
+        "description": "Des filets de daurade grillés servis sur un lit de ratatouille rapide aux courgettes et aubergines, accompagnés de riz basmati.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "filets de daurade",
+            "quantite": "4 filets (environ 700g)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Lancer la cuisson du riz basmati dans de l'eau bouillante salée (environ 12 min).",
+          "Couper courgettes et aubergine en petits dés, faire revenir à l'huile d'olive avec l'ail émincé pendant 10 min, ajouter les tomates pelées et les herbes, laisser mijoter 15 min.",
+          "Assaisonner les filets de daurade côté peau et les griller dans une poêle chaude huilée, 3-4 min par face.",
+          "Servir les filets sur la ratatouille avec le riz en accompagnement."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Wraps au poulet tikka et crudités",
+        "description": "Wraps moelleux garnis de poulet mariné aux épices tikka, salade et concombre râpé à la menthe.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "tortillas de blé (grandes)",
+            "quantite": "4"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "500g"
+          },
+          {
+            "nom": "yaourt nature",
+            "quantite": "2"
+          },
+          {
+            "nom": "épices tikka masala",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1"
+          },
+          {
+            "nom": "feuilles de salade verte",
+            "quantite": "100g"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 citron"
+          },
+          {
+            "nom": "menthe fraîche",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper les blancs de poulet en lamelles, les mélanger avec 1 yaourt, les épices tikka et une pincée de sel, puis faire sauter à la poêle 8-10 min.",
+          "Râper le concombre, l'assaisonner avec le second yaourt, le jus de citron et la menthe ciselée.",
+          "Réchauffer légèrement les tortillas à la poêle sèche.",
+          "Garnir chaque wrap de salade, de poulet tikka et du mélange concombre-yaourt, puis rouler."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Côtelettes de porc à la moutarde et gratin de pommes de terre",
+        "description": "Côtelettes de porc dorées en cocotte avec une sauce moutarde crémeuse, accompagnées d'un gratin de pommes de terre doré au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtelettes de porc",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "30cl"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "80g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "20cl"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "thym",
+            "quantite": "quelques branches"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190°C. Éplucher et trancher finement les pommes de terre, les disposer en couches dans un plat beurré avec le lait, la moitié de la crème, l'ail, sel et poivre. Recouvrir de gruyère râpé et enfourner 35-40 min.",
+          "Saisir les côtelettes de porc à la poêle bien chaude avec un peu de beurre, 4 min par face, puis réserver.",
+          "Déglacer la poêle avec la crème restante et la moutarde à l'ancienne, laisser réduire 2-3 min.",
+          "Remettre les côtelettes dans la sauce, parsemer de thym et servir avec le gratin sorti du four."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Salade de riz au thon, maïs et tomates",
+        "description": "Une salade de riz complète et rapide avec du thon en boîte, maïs, tomates fraîches et une vinaigrette citronnée.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "riz long cuit (sachet micro-ondes ou cuit la veille)",
+            "quantite": "600g"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 boîte de 285g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 citron"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire ou réchauffer le riz selon les instructions du sachet, laisser tiédir.",
+          "Couper les tomates en dés, émincer l'oignon rouge, égoutter le thon et le maïs.",
+          "Préparer une vinaigrette avec huile d'olive, jus de citron, sel et poivre.",
+          "Mélanger riz, thon, maïs, tomates, oignon et persil ciselé, arroser de vinaigrette et servir."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Cuisses de poulet rôties au citron confit et pommes de terre grenaille",
+        "description": "Cuisses de poulet fondantes rôties au four avec du citron confit et des herbes, accompagnées de pommes de terre grenaille dorées.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre grenaille",
+            "quantite": "800g"
+          },
+          {
+            "nom": "citron confit",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "romarin",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "thym",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Laver les pommes de terre grenaille et les disposer dans un grand plat allant au four avec l'ail en chemise, romarin et thym.",
+          "Inciser légèrement les cuisses de poulet, les frotter avec l'huile d'olive, sel, poivre et morceaux de citron confit.",
+          "Disposer les cuisses sur les pommes de terre et enfourner 35-40 min en arrosant à mi-cuisson avec le jus du plat.",
+          "Servir directement dans le plat, bien doré."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Tartines de rillettes de porc et cornichons sur pain de campagne",
+        "description": "Un repas rapide et savoureux sur des tranches de pain de campagne grillé, garnies de rillettes et cornichons avec une salade verte.",
+        "temps_minutes": 10,
+        "ingredients": [
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "rillettes de porc",
+            "quantite": "300g"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "1 pot de 200g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "salade verte (mâche ou frisée)",
+            "quantite": "100g"
+          },
+          {
+            "nom": "vinaigrette toute prête ou huile + vinaigre",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "beurre (optionnel)",
+            "quantite": "20g"
+          }
+        ],
+        "etapes": [
+          "Faire griller les tranches de pain de campagne au grille-pain ou à la poêle.",
+          "Tartiner légèrement de moutarde et généreusement de rillettes.",
+          "Disposer quelques cornichons tranchés sur chaque tartine.",
+          "Servir avec la salade verte assaisonnée en accompagnement."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Parmentier de canard confit et patate douce",
+        "description": "Un parmentier gourmand à base de confit de canard effiloché et d'une purée moelleuse de patate douce gratinée au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de canard confites",
+            "quantite": "4"
+          },
+          {
+            "nom": "patates douces",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "10cl"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "60g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "muscade râpée",
+            "quantite": "1 pincée"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Éplucher et cuire les patates douces en cubes dans de l'eau bouillante salée pendant 20 min, puis écraser en purée avec beurre, lait chaud, sel, poivre et muscade.",
+          "Réchauffer doucement les cuisses de canard confites à la poêle pour les effilocher facilement, puis mélanger la chair avec l'ail émincé et le thym.",
+          "Dans un plat allant au four, disposer le canard effiloché, recouvrir de purée de patate douce, parsemer de gruyère râpé.",
+          "Enfourner 15-20 min jusqu'à gratinage doré."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Soupe de tomates fraîches au basilic et lardons grillés",
+        "description": "Une soupe de tomates maison veloutée, parfumée au basilic frais, avec des lardons croustillants en garniture.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "tomates mûres",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "50cl"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "10cl"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sucre en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon et l'ail émincés dans l'huile d'olive, ajouter les tomates coupées en quartiers, le bouillon, le sucre, sel et poivre, mijoter 20 min.",
+          "Mixer la soupe finement, incorporer la crème et ajuster l'assaisonnement.",
+          "Faire revenir les lardons à la poêle jusqu'à ce qu'ils soient croustillants, griller les tranches de pain.",
+          "Servir la soupe avec les lardons et le basilic ciselé par-dessus, le pain grillé à côté."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Pavé de thon mi-cuit au sésame, pak choï sauté et riz jasmin",
+        "description": "Des pavés de thon enrobés de graines de sésame et cuits à peine rosés, servis avec un pak choï sauté à l'asiatique et du riz jasmin.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "pavés de thon frais",
+            "quantite": "4 (environ 700g)"
+          },
+          {
+            "nom": "graines de sésame blanc",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "pak choï",
+            "quantite": "4 pieds"
+          },
+          {
+            "nom": "riz jasmin",
+            "quantite": "300g"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "huile de sésame",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "gingembre frais",
+            "quantite": "1 morceau de 2cm"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire le riz jasmin selon les instructions, garder au chaud.",
+          "Enrober les pavés de thon de graines de sésame en pressant bien sur chaque face.",
+          "Faire sauter le pak choï coupé en quartiers dans la poêle avec l'ail et le gingembre râpés, l'huile de sésame et la sauce soja, 4-5 min.",
+          "Saisir les pavés de thon dans une poêle très chaude huilée, 1 min 30 par face pour un cœur rosé, servir immédiatement avec le pak choï et le riz."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Œufs à la florentine et jambon blanc",
+        "description": "Des œufs pochés posés sur un lit d'épinards crémeux et des tranches de jambon blanc, nappés d'une légère sauce béchamel.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "œufs",
+            "quantite": "8"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "400g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "30cl"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "25g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "40g"
+          },
+          {
+            "nom": "vinaigre blanc",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Réaliser une béchamel légère : faire fondre le beurre, incorporer la farine, verser le lait progressivement en fouettant, assaisonner de sel, poivre et muscade.",
+          "Faire tomber les épinards à la poêle avec un peu de beurre, assaisonner et incorporer 2 cuillères de béchamel.",
+          "Pocher les œufs dans de l'eau frémissante vinaigrée pendant 3 min.",
+          "Dresser : jambon, épinards crémeux, œuf poché par assiette, napper de béchamel et parsemer de gruyère râpé, passer au gril si désiré."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Carré d'agneau rôti aux herbes, flageolets mijotés et tomates provençales",
+        "description": "Un carré d'agneau parfumé au romarin et à l'ail, rôti à la perfection, accompagné de flageolets mijotés et de tomates provençales gratinées.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "carré d'agneau (2 carrés de 4 côtes chacun)",
+            "quantite": "environ 1,2kg"
+          },
+          {
+            "nom": "flageolets en boîte",
+            "quantite": "2 boîtes de 400g"
+          },
+          {
+            "nom": "tomates rondes",
+            "quantite": "4"
+          },
+          {
+            "nom": "ail",
+            "quantite": "6 gousses"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "5 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 210°C. Frotter les carrés d'agneau avec huile d'olive, ail écrasé, romarin, sel et poivre. Mélanger chapelure, persil, un peu d'huile et enrober la surface de la viande.",
+          "Couper les tomates en deux, les disposer dans un plat huilé avec ail, thym, chapelure, huile d'olive, et enfourner en même temps que l'agneau 20-25 min.",
+          "Rôtir les carrés d'agneau 20-25 min selon la cuisson désirée, laisser reposer 5 min sous papier alu.",
+          "Réchauffer les flageolets égouttés à la poêle avec un peu d'ail, beurre, sel et persil ciselé. Trancher les carrés et servir avec les flageolets et les tomates."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Salade composée au saumon fumé, avocat et roquette",
+        "description": "Une belle salade dominicale avec des tranches de saumon fumé, de l'avocat crémeux, de la roquette et des câpres, vinaigrette au citron.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "saumon fumé",
+            "quantite": "300g"
+          },
+          {
+            "nom": "avocats",
+            "quantite": "2"
+          },
+          {
+            "nom": "roquette",
+            "quantite": "120g"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "quelques brins"
+          },
+          {
+            "nom": "pain de seigle",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper les avocats en tranches ou en dés et les arroser de jus de citron pour éviter l'oxydation.",
+          "Disposer la roquette dans les assiettes, ajouter les tranches de saumon fumé et l'avocat.",
+          "Mélanger la crème fraîche avec un peu de jus de citron, l'aneth ciselé et les câpres pour faire la sauce, poivrer.",
+          "Napper la salade de sauce à la crème et servir avec les tranches de pain de seigle."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Bœuf bourguignon mijoté et pommes de terre vapeur",
+        "description": "Un grand classique familial : des morceaux de bœuf fondants mijotés au vin rouge avec champignons, lardons et carottes, accompagnés de pommes de terre vapeur.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "bœuf à braiser (paleron ou joue)",
+            "quantite": "800g"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "50cl"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "3"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "concentré de tomate",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "farine",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "bouquet garni (thym, laurier)",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "800g"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper le bœuf en gros cubes, le faire dorer sur toutes faces dans une cocotte bien chaude avec l'huile. Réserver. Faire revenir oignons émincés, lardons et carottes en rondelles dans la même cocotte.",
+          "Remettre le bœuf, saupoudrer de farine, ajouter l'ail, le concentré de tomate, mouiller avec le vin rouge, ajouter le bouquet garni, sel et poivre. Couvrir et laisser mijoter 30-35 min à feu doux.",
+          "Faire sauter les champignons émincés dans le beurre séparément, les incorporer 10 min avant la fin de cuisson.",
+          "Cuire les pommes de terre vapeur. Servir le bourguignon bien chaud avec les pommes de terre."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "blancs de poulet",
+            "quantite": "1,1kg"
+          },
+          {
+            "nom": "cuisses de poulet",
+            "quantite": "4"
+          },
+          {
+            "nom": "côtelettes de porc",
+            "quantite": "4"
+          },
+          {
+            "nom": "cuisses de canard confites",
+            "quantite": "4"
+          },
+          {
+            "nom": "carré d'agneau (2 carrés de 4 côtes)",
+            "quantite": "environ 1,2kg"
+          },
+          {
+            "nom": "bœuf à braiser (paleron ou joue)",
+            "quantite": "800g"
+          },
+          {
+            "nom": "filets de daurade",
+            "quantite": "4 filets (environ 700g)"
+          },
+          {
+            "nom": "pavés de thon frais",
+            "quantite": "4 (environ 700g)"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "300g"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "2 boîtes de 160g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "300g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "rillettes de porc",
+            "quantite": "300g"
+          }
+        ]
+      },
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "tomates cerises",
+            "quantite": "200g"
+          },
+          {
+            "nom": "tomates mûres fraîches",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "tomates rondes",
+            "quantite": "7"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "3"
+          },
+          {
+            "nom": "patates douces",
+            "quantite": "1kg"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "1,8kg"
+          },
+          {
+            "nom": "pommes de terre grenaille",
+            "quantite": "800g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "4"
+          },
+          {
+            "nom": "oignons rouges",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 têtes"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1"
+          },
+          {
+            "nom": "avocats",
+            "quantite": "2"
+          },
+          {
+            "nom": "pak choï",
+            "quantite": "4 pieds"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "400g"
+          },
+          {
+            "nom": "roquette",
+            "quantite": "120g"
+          },
+          {
+            "nom": "salade verte (mâche ou frisée)",
+            "quantite": "200g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300g"
+          },
+          {
+            "nom": "gingembre frais",
+            "quantite": "1 morceau de 4cm"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "3"
+          },
+          {
+            "nom": "citron confit",
+            "quantite": "2"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "menthe fraîche",
+            "quantite": "quelques feuilles"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "6 branches"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "8 branches"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "lentilles vertes en boîte",
+            "quantite": "2 boîtes de 400g"
+          },
+          {
+            "nom": "flageolets en boîte",
+            "quantite": "2 boîtes de 400g"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte de 400g"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 boîte de 285g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300g"
+          },
+          {
+            "nom": "riz jasmin",
+            "quantite": "300g"
+          },
+          {
+            "nom": "riz long (sachet micro-ondes ou à cuire)",
+            "quantite": "600g"
+          },
+          {
+            "nom": "tortillas de blé grandes",
+            "quantite": "4"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "1 miche"
+          },
+          {
+            "nom": "pain de seigle",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "farine",
+            "quantite": "200g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "petit flacon"
+          },
+          {
+            "nom": "huile de sésame",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "vinaigre blanc",
+            "quantite": "petite bouteille"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "concentré de tomate",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "50cl"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "50cl"
+          },
+          {
+            "nom": "épices tikka masala",
+            "quantite": "1 boîte"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "bouquet garni (thym, laurier)",
+            "quantite": "1"
+          },
+          {
+            "nom": "graines de sésame blanc",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "1 pot de 200g"
+          },
+          {
+            "nom": "sucre en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "muscade râpée",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "sel",
+            "quantite": "selon stock"
+          },
+          {
+            "nom": "poivre",
+            "quantite": "selon stock"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers",
+        "items": [
+          {
+            "nom": "beurre",
+            "quantite": "150g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "60cl"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "10cl"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "60cl"
+          },
+          {
+            "nom": "yaourts nature",
+            "quantite": "2"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "180g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-07-26",
     "menus": [
       {
