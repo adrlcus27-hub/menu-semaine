@@ -1,5 +1,1131 @@
 [
   {
+    "semaine_du": "2026-08-09",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de pâtes au poulet grillé et tomates séchées",
+        "description": "Une salade de pâtes fraîche et colorée avec des lamelles de poulet grillé, tomates séchées et roquette.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "pâtes fusilli",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "filets de poulet",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "tomates séchées à l'huile",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "roquette",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 citron"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les pâtes al dente dans de l'eau salée, égoutter et laisser refroidir.",
+          "Griller les filets de poulet assaisonnés à la poêle avec un filet d'huile, puis les trancher en lamelles.",
+          "Mélanger les pâtes avec les tomates séchées coupées, la roquette et le poulet.",
+          "Assaisonner avec huile d'olive, jus de citron, sel, poivre et parsemer de parmesan."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Tajine de veau aux citrons confits et olives vertes",
+        "description": "Un mijoté de veau parfumé aux épices douces, citrons confits et olives, servi avec de la semoule.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "blanquette de veau (morceaux)",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "citrons confits",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "olives vertes dénoyautées",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "gousses d'ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "curcuma",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "gingembre en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "semoule fine",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir les oignons émincés et l'ail dans l'huile d'olive, ajouter les épices puis dorer les morceaux de veau.",
+          "Ajouter le bouillon, les citrons confits coupés en quartiers et les olives, couvrir et mijoter 30 minutes.",
+          "Préparer la semoule en la couvrant d'eau bouillante salée, laisser gonfler 5 minutes puis égrener avec une fourchette.",
+          "Servir le veau sur la semoule, parsemer de coriandre fraîche ciselée."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Velouté de poireaux au saumon fumé",
+        "description": "Un velouté doux et onctueux de poireaux garni de lamelles de saumon fumé et de crème fraîche.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "poireaux",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Émincer les poireaux et les faire fondre dans le beurre à feu doux pendant 5 minutes.",
+          "Ajouter les pommes de terre épluchées et coupées en dés, verser le bouillon et cuire 20 minutes.",
+          "Mixer jusqu'à obtenir un velouté lisse, ajuster l'assaisonnement.",
+          "Servir avec une cuillère de crème, des lamelles de saumon fumé et de la ciboulette ciselée."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Cuisses de canard confites, lentilles vertes à la moutarde",
+        "description": "Des cuisses de canard confites dorées à la poêle accompagnées de lentilles vertes mijotées à la moutarde.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "cuisses de canard confites (en boîte ou sous vide)",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "700 ml"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les lentilles avec oignon, carottes en dés, thym et laurier dans le bouillon pendant 25 minutes.",
+          "Égoutter légèrement les lentilles et incorporer la moutarde à l'ancienne, rectifier l'assaisonnement.",
+          "Poêler les cuisses de canard confites côté peau à feu vif 5 à 7 minutes pour les rendre croustillantes.",
+          "Servir les cuisses de canard sur le lit de lentilles moutardées."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Quesadillas au jambon, fromage et maïs",
+        "description": "Des tortillas garnies de jambon, fromage fondu et maïs, dorées à la poêle pour un repas rapide et gourmand.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "tortillas de blé (grandes)",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "fromage râpé (emmental ou cheddar)",
+            "quantite": "160 g"
+          },
+          {
+            "nom": "maïs en boîte égoutté",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper le jambon en petits morceaux et trancher les tomates en rondelles fines.",
+          "Garnir une tortilla de fromage râpé, jambon, maïs et tomates, poivrer, refermer avec une seconde tortilla.",
+          "Faire dorer chaque quesadilla dans une poêle légèrement huilée 2 à 3 minutes de chaque côté.",
+          "Couper en quartiers et servir avec une cuillère de crème fraîche."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Filets de truite aux amandes remplacées par graines de sésame, épinards sautés et riz",
+        "description": "Des filets de truite dorés au beurre et graines de sésame, accompagnés d'épinards frais sautés à l'ail et de riz basmati.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "filets de truite",
+            "quantite": "4 pièces (environ 160 g chacun)"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "gousses d'ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "jus de citron",
+            "quantite": "1 citron"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire le riz basmati selon les instructions, réserver au chaud.",
+          "Presser les graines de sésame sur la face supérieure des filets de truite assaisonnés.",
+          "Faire dorer les filets côté sésame dans le beurre moussant 3 minutes, retourner et cuire encore 2 minutes.",
+          "Sauter les épinards avec l'ail émincé dans l'huile d'olive 2 minutes, saler, poivrer et servir avec le riz et la truite arrosée de citron."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Salade de betterave rôtie au magret de canard fumé et vinaigrette balsamique",
+        "description": "Une salade généreuse de betteraves rôties chaudes, lamelles de magret de canard fumé et mesclun, relevée d'une vinaigrette balsamique.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "betteraves crues",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "magret de canard fumé (tranché)",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "mesclun",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "miel",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Éplucher et couper les betteraves en cubes, les rôtir au four à 200°C avec huile d'olive, sel et poivre pendant 25 minutes.",
+          "Préparer la vinaigrette en mélangeant moutarde, vinaigre balsamique, miel et huile d'olive.",
+          "Disposer le mesclun dans les assiettes, ajouter les betteraves chaudes et les tranches de magret fumé.",
+          "Arroser de vinaigrette et servir immédiatement."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Escalopes de veau à la crème et aux champignons, tagliatelles fraîches",
+        "description": "De tendres escalopes de veau nappées d'une sauce crémeuse aux champignons de Paris, servies avec des tagliatelles fraîches.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "escalopes de veau",
+            "quantite": "4 pièces (environ 150 g chacune)"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "crème fraîche liquide entière",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "vin blanc sec",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir les échalotes émincées dans le beurre, ajouter les champignons tranchés et cuire jusqu'à évaporation.",
+          "Saisir les escalopes de veau 2 minutes de chaque côté dans la même poêle, réserver.",
+          "Déglacer avec le vin blanc, ajouter la crème, laisser réduire 5 minutes et remettre les escalopes dans la sauce.",
+          "Cuire les tagliatelles al dente, égoutter et servir avec les escalopes nappées de sauce, parsemer de persil ciselé."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Soupe de pois chiches aux lardons et épices douces",
+        "description": "Une soupe généreuse et réconfortante à base de pois chiches, lardons fumés et épices orientales douces.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "pois chiches en boîte",
+            "quantite": "2 boîtes (800 g égouttés)"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "gousses d'ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "cumin",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "paprika doux",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "quelques brins"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir les lardons avec l'oignon émincé et l'ail dans l'huile d'olive, ajouter les épices et mélanger.",
+          "Ajouter les pois chiches égouttés, les tomates pelées et le bouillon, porter à ébullition puis mijoter 15 minutes.",
+          "Écraser grossièrement une partie des pois chiches à la fourchette pour épaissir la soupe.",
+          "Servir chaud parsemé de coriandre fraîche et d'un filet d'huile d'olive."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Daurade royale en croûte de sel et légumes méditerranéens rôtis",
+        "description": "Une daurade entière cuite en croûte de sel pour une chair ultra-moelleuse, accompagnée de légumes méditerranéens rôtis au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "daurades royales entières (vidées)",
+            "quantite": "2 pièces (environ 600 g chacune)"
+          },
+          {
+            "nom": "gros sel de mer",
+            "quantite": "2 kg"
+          },
+          {
+            "nom": "blancs d'œufs",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "aubergines",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Mélanger le gros sel et les blancs d'œufs pour obtenir une pâte, déposer une couche sur la plaque, poser la daurade avec thym et laurier, recouvrir et enfourner à 220°C pendant 25 minutes.",
+          "Couper courgettes, aubergines, tomates et oignon en morceaux, assaisonner avec huile, herbes de Provence, sel et poivre et rôtir à 200°C en parallèle 25 minutes.",
+          "Sortir la daurade du four, casser la croûte de sel à table et lever les filets.",
+          "Servir les filets avec les légumes rôtis et un filet d'huile d'olive."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Galettes de sarrasin au saumon, épinards et œuf",
+        "description": "Des galettes bretonnes garnies de saumon frais poêlé, épinards à la crème et œuf miroir, pour un déjeuner du week-end convivial.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "farine de sarrasin",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "5 pièces"
+          },
+          {
+            "nom": "lait",
+            "quantite": "500 ml"
+          },
+          {
+            "nom": "eau",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "pavé de saumon (sans peau)",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "épinards surgelés",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "une pincée"
+          }
+        ],
+        "etapes": [
+          "Préparer la pâte à galette en mélangeant farine de sarrasin, 1 œuf, lait, eau et sel, laisser reposer 10 minutes.",
+          "Cuire les épinards décongelés dans une poêle avec la crème, assaisonner de sel, poivre et muscade.",
+          "Cuire les galettes dans une poêle beurrée, garnir chacune d'épinards, de dés de saumon poêlé et casser un œuf au centre, replier les bords.",
+          "Couvrir quelques secondes pour que l'œuf soit cuit, servir chaud."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Côte de bœuf grillée au beurre d'herbes, gratin de macaronis au fromage",
+        "description": "Une côte de bœuf épaisse grillée et nappée de beurre persillé maison, accompagnée d'un gratin de macaronis fondant.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côte de bœuf (environ 1,2 kg)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "beurre doux",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "persil plat",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "ciboulette",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "gousses d'ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "macaronis",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "500 ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "beurre (pour béchamel)",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "une pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "huile",
+            "quantite": "1 cuillère à soupe"
+          }
+        ],
+        "etapes": [
+          "Préparer le beurre d'herbes en mélangeant beurre mou, persil et ciboulette ciselés, ail haché, sel et poivre ; former un boudin dans du film alimentaire et réfrigérer.",
+          "Cuire les macaronis al dente, préparer une béchamel légère, mélanger le tout, verser dans un plat, couvrir de gruyère et gratiner 15 minutes au four à 200°C.",
+          "Saisir la côte de bœuf à feu très vif dans une poêle légèrement huilée, 4 à 5 minutes de chaque côté, laisser reposer 5 minutes couverte de papier aluminium.",
+          "Trancher la côte de bœuf, poser une rondelle de beurre d'herbes sur chaque portion et servir avec le gratin."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Quiche lorraine au jambon et fromage",
+        "description": "Une quiche maison dorée et crémeuse garnie de lardons fumés, jambon et gruyère, parfaite pour un déjeuner dominical.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "pâte brisée prête à l'emploi",
+            "quantite": "1 rouleau"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "une pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "beurre (pour le moule)",
+            "quantite": "10 g"
+          }
+        ],
+        "etapes": [
+          "Foncer le moule beurré avec la pâte brisée et piquer le fond, précuire 10 minutes à 180°C.",
+          "Faire revenir les lardons à sec, couper le jambon en dés et répartir sur le fond de tarte avec le gruyère.",
+          "Battre les œufs avec la crème, le lait, la muscade, sel et poivre, verser l'appareil sur la garniture.",
+          "Cuire au four à 180°C pendant 30 minutes jusqu'à ce que la quiche soit dorée et prise, laisser tiédir avant de servir avec une salade verte."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Souris d'agneau confites au four, purée de patate douce au cumin",
+        "description": "Des souris d'agneau longuement confites au four avec ail et herbes, servies sur une purée soyeuse de patate douce au cumin.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "souris d'agneau",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "gousses d'ail",
+            "quantite": "6 gousses"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "romarin",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "vin blanc sec",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "bouillon d'agneau ou de volaille",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "patates douces",
+            "quantite": "900 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Dorer les souris d'agneau sur toutes les faces dans une cocotte avec l'huile d'olive, saler et poivrer.",
+          "Ajouter l'ail en chemise, thym, romarin, vin blanc et bouillon, couvrir et enfourner à 170°C pendant 2h30 (préparé à l'avance si possible, le soir se limite au dressage).",
+          "Éplucher et cuire les patates douces à l'eau 20 minutes, écraser avec beurre, crème et cumin jusqu'à obtenir une purée lisse.",
+          "Servir les souris d'agneau avec leur jus de cuisson réduit sur la purée de patate douce."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "filets de poulet",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "blanquette de veau (morceaux)",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "escalopes de veau",
+            "quantite": "4 pièces (~600 g)"
+          },
+          {
+            "nom": "cuisses de canard confites (sous vide ou en boîte)",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "magret de canard fumé tranché",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "côte de bœuf",
+            "quantite": "1 pièce (~1,2 kg)"
+          },
+          {
+            "nom": "souris d'agneau",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "filets de truite",
+            "quantite": "4 pièces (~160 g chacun)"
+          },
+          {
+            "nom": "daurades royales entières vidées",
+            "quantite": "2 pièces (~600 g chacune)"
+          },
+          {
+            "nom": "pavé de saumon sans peau",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "350 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "300 g"
+          }
+        ]
+      },
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "poireaux",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "aubergines",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "10 pièces"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "ail (têtes)",
+            "quantite": "3 têtes"
+          },
+          {
+            "nom": "betteraves crues",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "roquette",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "mesclun",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "citrons confits",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "patates douces",
+            "quantite": "900 g"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "3 bouquets"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 botte"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "pâtes fusilli",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "macaronis",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "560 g"
+          },
+          {
+            "nom": "semoule fine",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "pois chiches en boîte",
+            "quantite": "2 boîtes (800 g égouttés)"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "1 boîte (400 g)"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "tomates séchées à l'huile",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "olives vertes dénoyautées",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "gros sel de mer",
+            "quantite": "2 kg"
+          },
+          {
+            "nom": "farine de sarrasin",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "farine de blé",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "tortillas de blé (grandes)",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "pâte brisée prête à l'emploi",
+            "quantite": "1 rouleau"
+          },
+          {
+            "nom": "bouillon de légumes (cubes ou brique)",
+            "quantite": "2 litres"
+          },
+          {
+            "nom": "bouillon de volaille (cubes ou brique)",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "bouillon d'agneau ou de volaille (pour souris)",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "vin blanc sec",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "miel",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "petite quantité"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "curcuma",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "gingembre en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "paprika doux",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pièce ou petite boîte"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "1 paquet"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "40 g"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers & œufs",
+        "items": [
+          {
+            "nom": "œufs",
+            "quantite": "16 pièces"
+          },
+          {
+            "nom": "beurre doux",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "crème fraîche liquide entière",
+            "quantite": "500 ml"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "1,1 litre"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "fromage râpé (emmental ou cheddar)",
+            "quantite": "160 g"
+          },
+          {
+            "nom": "fromage râpé (pour béchamel macaronis)",
+            "quantite": "déjà compté dans gruyère"
+          }
+        ]
+      },
+      {
+        "rayon": "Surgelés",
+        "items": [
+          {
+            "nom": "épinards surgelés",
+            "quantite": "300 g"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-08-02",
     "menus": [
       {
