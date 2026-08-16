@@ -1,5 +1,1074 @@
 [
   {
+    "semaine_du": "2026-08-16",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de mâche au jambon de pays et œufs durs",
+        "description": "Une salade fraîche et nourrissante avec des œufs durs, du jambon de pays et une vinaigrette à la moutarde.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "mâche",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "jambon de pays en tranches",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les œufs durs 10 minutes dans l'eau bouillante, puis les écaler et les couper en quartiers.",
+          "Préparer la vinaigrette en mélangeant moutarde, vinaigre, huile, sel et poivre.",
+          "Disposer la mâche dans un saladier, ajouter les tomates cerises, le jambon de pays et les quartiers d'œufs.",
+          "Arroser de vinaigrette au moment de servir."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Filets de lieu noir à la crème de poireaux et riz basmati",
+        "description": "Des filets de lieu noir pochés sur un lit de poireaux fondants à la crème, servis avec du riz basmati.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "filets de lieu noir",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "poireaux",
+            "quantite": "3 (parties blanches et vert tendre)"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "150 ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          }
+        ],
+        "etapes": [
+          "Cuire le riz basmati selon les instructions du paquet, réserver au chaud.",
+          "Émincer les poireaux et les faire fondre à feu doux dans le beurre avec l'ail haché pendant 10 minutes, puis ajouter la crème et laisser mijoter 5 minutes.",
+          "Poêler les filets de lieu noir dans l'huile d'olive 3 à 4 minutes de chaque côté, saler et poivrer.",
+          "Dresser le riz dans les assiettes, déposer la fondue de poireaux à la crème et les filets de poisson dessus, arroser d'un filet de jus de citron."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Soupe de carottes au curry et poulet effiloché",
+        "description": "Une soupe veloutée de carottes parfumée au curry, enrichie de poulet effiloché pour un repas complet et réconfortant.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "carottes",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "blancs de poulet cuits (rôtisserie ou bouilli)",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "2 cuillères à café"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "quelques feuilles"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé dans l'huile, ajouter les carottes pelées et coupées en rondelles, puis le curry.",
+          "Verser le bouillon, porter à ébullition et cuire 20 minutes jusqu'à ce que les carottes soient tendres, puis mixer.",
+          "Incorporer le lait de coco, assaisonner, et effilocher le poulet cuit à la main.",
+          "Servir la soupe dans des bols avec le poulet effiloché déposé au centre et quelques feuilles de coriandre."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Côtelettes d'agneau grillées, haricots blancs à la tomate et herbes",
+        "description": "Des côtelettes d'agneau grillées à la perfection, accompagnées de haricots blancs mijotés dans une sauce tomate aux herbes.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "côtelettes d'agneau",
+            "quantite": "8 (2 par personne)"
+          },
+          {
+            "nom": "haricots blancs en boîte",
+            "quantite": "2 boîtes (400 g chacune, égouttées)"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 brins"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 petit bouquet"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'ail haché dans l'huile d'olive, ajouter les tomates concassées, le thym et le romarin, laisser mijoter 10 minutes.",
+          "Incorporer les haricots blancs égouttés à la sauce tomate, saler, poivrer et laisser mijoter 5 minutes supplémentaires.",
+          "Griller les côtelettes d'agneau assaisonnées dans une poêle ou au grill très chaud, 3 minutes par face pour une cuisson rosée.",
+          "Servir les côtelettes sur le lit de haricots, parsemer de persil haché."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Sandwich club au poulet rôti, laitue et tomate",
+        "description": "Un sandwich généreux à deux étages avec du poulet rôti tranché, de la laitue croquante, de la tomate et une mayonnaise maison.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pain de mie complet",
+            "quantite": "12 tranches"
+          },
+          {
+            "nom": "blancs de poulet rôti (rôtisserie)",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "laitue",
+            "quantite": "1 cœur"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "œuf",
+            "quantite": "1 (pour la mayo)"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "15 cl"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "bacon en tranches",
+            "quantite": "8 tranches"
+          }
+        ],
+        "etapes": [
+          "Préparer la mayonnaise en émulsionnant l'œuf avec la moutarde et l'huile de tournesol, saler et poivrer.",
+          "Faire griller les tranches de bacon à la poêle jusqu'à ce qu'elles soient croustillantes.",
+          "Toaster légèrement les tranches de pain de mie, tartiner de mayonnaise.",
+          "Monter les sandwichs club en superposant laitue, tomate, poulet tranché et bacon sur deux étages, maintenir avec un pic et couper en diagonale."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Sauté de porc au gingembre et légumes croquants, nouilles soba",
+        "description": "Un sauté de porc parfumé au gingembre et à la sauce soja avec des légumes colorés, servi sur des nouilles soba.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "filet de porc",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "nouilles soba",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2"
+          },
+          {
+            "nom": "oignons nouveaux",
+            "quantite": "4"
+          },
+          {
+            "nom": "gingembre frais",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "huile de sésame",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "2 cuillères à soupe"
+          }
+        ],
+        "etapes": [
+          "Couper le filet de porc en fines lamelles et le faire mariner 10 minutes dans la sauce soja, le gingembre râpé et l'ail haché.",
+          "Faire cuire les nouilles soba selon les instructions du paquet, égoutter et réserver.",
+          "Faire sauter le porc mariné dans l'huile de tournesol à feu vif, puis ajouter les carottes en julienne, les courgettes en demi-rondelles et les oignons nouveaux.",
+          "Incorporer les nouilles soba dans la poêle, arroser d'huile de sésame, mélanger et servir parsemé de graines de sésame."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Velouté de courge butternut au lard fumé",
+        "description": "Un velouté doux et crémeux de courge butternut, agrémenté de lardons de lard fumé croustillants.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "courge butternut",
+            "quantite": "1 grosse (environ 1 kg de chair)"
+          },
+          {
+            "nom": "lard fumé en lardons",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "bouillon de volaille",
+            "quantite": "800 ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "muscade en poudre",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          }
+        ],
+        "etapes": [
+          "Peler et couper la courge en cubes, faire revenir l'oignon émincé dans le beurre puis ajouter la courge et le bouillon.",
+          "Cuire à feu moyen 20 minutes jusqu'à ce que la courge soit tendre, puis mixer avec la crème, la muscade, le sel et le poivre.",
+          "Faire revenir les lardons à la poêle jusqu'à ce qu'ils soient croustillants, réserver sur du papier absorbant.",
+          "Servir le velouté chaud dans des bols, garnir de lardons croustillants et accompagner de pain de campagne grillé."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Filets de bar poêlés au beurre citronné, épinards à l'ail et pommes de terre sautées",
+        "description": "Des filets de bar croustillants nappés d'un beurre citronné, accompagnés d'épinards sautés à l'ail et de pommes de terre dorées.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "filets de bar (loup)",
+            "quantite": "4 (environ 160 g chacun)"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 petit bouquet"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Couper les pommes de terre en cubes et les faire sauter dans l'huile d'olive à feu moyen-vif pendant 20 à 25 minutes jusqu'à dorure, saler.",
+          "Faire sauter les épinards dans une poêle avec l'ail haché et une noisette de beurre jusqu'à ce qu'ils tombent, assaisonner.",
+          "Poêler les filets de bar côté peau dans l'huile 4 minutes, retourner 1 minute, saler et poivrer.",
+          "Faire mousser le beurre restant dans la poêle avec le jus de citron et le persil haché, napper les filets et servir aussitôt avec les épinards et les pommes de terre."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Penne au thon, câpres et olives noires",
+        "description": "Un plat de pâtes rapide et savoureux avec du thon en boîte, des câpres, des olives noires et un filet d'huile d'olive.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "penne rigate",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "2 boîtes (160 g égouttés chacune)"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 petit bouquet"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les penne dans une grande casserole d'eau bouillante salée selon les instructions du paquet.",
+          "Faire revenir l'ail haché dans l'huile d'olive, ajouter les tomates cerises coupées en deux et cuire 3 minutes.",
+          "Incorporer le thon émietté, les câpres et les olives noires, mélanger doucement et chauffer 2 minutes.",
+          "Égoutter les pâtes, les ajouter à la sauce, mélanger, parsemer de persil haché et servir immédiatement."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Poulet rôti à l'estragon, gratin de courgettes au fromage",
+        "description": "Un poulet rôti parfumé à l'estragon et au beurre, accompagné d'un gratin de courgettes fondant au fromage râpé.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses et hauts de cuisse de poulet",
+            "quantite": "8 morceaux"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "4"
+          },
+          {
+            "nom": "estragon frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Mélanger le beurre ramolli avec l'estragon haché et l'ail écrasé, enduire les morceaux de poulet de ce beurre, saler et poivrer.",
+          "Disposer le poulet dans un plat à rôtir huilé et enfourner 35 à 40 minutes en arrosant régulièrement.",
+          "Pendant ce temps, trancher les courgettes, les disposer dans un plat à gratin, mélanger avec la crème, le gruyère râpé, sel et poivre, et enfourner les 20 dernières minutes avec le poulet.",
+          "Servir le poulet rôti avec le gratin de courgettes doré bien chaud."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Tartines de sardines à l'huile sur pain grillé et salade verte",
+        "description": "Des tartines rapides et savoureuses à base de sardines à l'huile citronnées, sur pain grillé, avec une salade verte en accompagnement.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "sardines à l'huile en boîte",
+            "quantite": "3 boîtes (environ 100 g chacune)"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches épaisses"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 petit bouquet"
+          },
+          {
+            "nom": "salade verte (frisée ou batavia)",
+            "quantite": "1"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "vinaigre de vin blanc",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Toaster les tranches de pain de campagne.",
+          "Écraser grossièrement les sardines à la fourchette avec un filet de jus de citron et le persil haché.",
+          "Étaler généreusement la préparation de sardines sur les tartines grillées, poivrer.",
+          "Préparer la vinaigrette et assaisonner la salade, servir les tartines avec la salade en accompagnement."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Rôti de bœuf en croûte d'herbes, carottes et haricots verts",
+        "description": "Un rôti de bœuf enrobé d'une croûte d'herbes fraîches, servi avec des carottes fondantes et des haricots verts croquants.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "rôti de bœuf (dans le filet ou le rumsteak)",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 brins"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "haricots verts frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 220°C. Mixer les herbes avec l'ail, enduire le rôti de moutarde puis appliquer la croûte d'herbes sur toute la surface.",
+          "Saisir le rôti dans l'huile d'olive dans une cocotte à feu vif, 2 minutes sur chaque face, puis enfourner 20 à 25 minutes selon la cuisson désirée (saignant ou à point).",
+          "Pendant la cuisson, faire cuire les carottes coupées en bâtons dans de l'eau salée jusqu'à tendreté, puis les glacer au beurre; faire cuire les haricots verts à la vapeur ou dans l'eau bouillante salée.",
+          "Laisser reposer le rôti 10 minutes couvert de papier alu, trancher et servir avec les légumes."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Salade tiède de lentilles au saumon poché et vinaigrette à la moutarde à l'ancienne",
+        "description": "Une salade tiède et complète de lentilles vertes du Puy avec du saumon poché, assaisonnée d'une vinaigrette à la moutarde à l'ancienne.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "pavé de saumon frais",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "carotte",
+            "quantite": "1"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "1"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de cidre",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "5 cuillères à soupe"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 petit bouquet"
+          }
+        ],
+        "etapes": [
+          "Cuire les lentilles avec l'oignon, la carotte et le bouquet garni dans de l'eau froide pendant 20 minutes, égoutter et retirer les aromates.",
+          "Pocher les pavés de saumon dans de l'eau frémissante légèrement salée pendant 8 minutes, puis émietter grossièrement.",
+          "Préparer la vinaigrette en mélangeant moutarde à l'ancienne, vinaigre de cidre, huile, sel, poivre et échalotes finement émincées.",
+          "Mélanger les lentilles encore tièdes avec la vinaigrette, disposer le saumon émietté dessus et parsemer de ciboulette ciselée."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Blanquette de veau classique et riz pilaf",
+        "description": "La grande classique de la cuisine française, un veau mijoté dans une sauce blanche veloutée aux champignons, accompagné d'un riz pilaf parfumé.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "épaule de veau coupée en cubes",
+            "quantite": "900 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "1"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "150 ml"
+          },
+          {
+            "nom": "jaune d'œuf",
+            "quantite": "2"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1/2"
+          },
+          {
+            "nom": "riz long grain",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "bouillon de volaille chaud",
+            "quantite": "600 ml pour le riz"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "quelques feuilles"
+          }
+        ],
+        "etapes": [
+          "Couvrir les cubes de veau d'eau froide avec l'oignon, les carottes et le bouquet garni, porter à ébullition, écumer et laisser mijoter 30 minutes.",
+          "Faire un roux avec le beurre et la farine, mouiller progressivement avec 600 ml du bouillon de cuisson filtré, ajouter les champignons émincés et laisser épaissir 10 minutes.",
+          "Mélanger les jaunes d'œufs avec la crème et le jus de citron, incorporer hors du feu à la sauce pour la lier, ajouter les morceaux de veau égouttés.",
+          "Préparer le riz pilaf en le faisant nacrer dans le beurre puis en mouillant avec le bouillon chaud et en cuisant à couvert 18 minutes ; servir la blanquette parsemée de persil avec le riz."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "tomates cerises",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "poireaux",
+            "quantite": "3"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "10 (environ 1,5 kg)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "8"
+          },
+          {
+            "nom": "courge butternut",
+            "quantite": "1 grosse (environ 1,2 kg)"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "haricots verts frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "salade verte (frisée ou batavia)",
+            "quantite": "1"
+          },
+          {
+            "nom": "mâche",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "laitue",
+            "quantite": "1 cœur"
+          },
+          {
+            "nom": "oignons nouveaux",
+            "quantite": "4"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "4"
+          },
+          {
+            "nom": "échalotes",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 tête entière"
+          },
+          {
+            "nom": "gingembre frais",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "persil plat frais",
+            "quantite": "4 bouquets"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "estragon frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "1 bouquet"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "filets de lieu noir",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "filets de bar (loup)",
+            "quantite": "4 (environ 640 g)"
+          },
+          {
+            "nom": "pavés de saumon frais",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "sardines à l'huile en boîte",
+            "quantite": "3 boîtes (100 g chacune)"
+          },
+          {
+            "nom": "thon en boîte à l'huile",
+            "quantite": "4 boîtes (160 g égouttés chacune)"
+          },
+          {
+            "nom": "blancs de poulet cuits (rôtisserie)",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "cuisses et hauts de cuisse de poulet",
+            "quantite": "8 morceaux (environ 1,4 kg)"
+          },
+          {
+            "nom": "filet de porc",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "rôti de bœuf",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "épaule de veau en cubes",
+            "quantite": "900 g"
+          },
+          {
+            "nom": "côtelettes d'agneau",
+            "quantite": "8"
+          },
+          {
+            "nom": "jambon de pays en tranches",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "jambon blanc en tranches",
+            "quantite": "300 g (pour les sandwichs club)"
+          },
+          {
+            "nom": "bacon en tranches",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "lardons de lard fumé",
+            "quantite": "150 g"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "riz basmati",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "riz long grain",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "lentilles vertes du Puy",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "haricots blancs en boîte",
+            "quantite": "2 boîtes (400 g chacune)"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "penne rigate",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "nouilles soba",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "lait de coco",
+            "quantite": "400 ml (2 briques de 200 ml)"
+          },
+          {
+            "nom": "bouillon de volaille (cubes ou liquide)",
+            "quantite": "2,4 litres"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille (750 ml)"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "huile de sésame",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe (petite bouteille)"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "vinaigre de vin rouge",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "vinaigre de vin blanc",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "vinaigre de cidre",
+            "quantite": "1 petite bouteille"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "farine",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "curry en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "muscade en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "bouquet garni",
+            "quantite": "2"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "1 grosse miche"
+          },
+          {
+            "nom": "pain de mie complet",
+            "quantite": "12 tranches"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers & œufs",
+        "items": [
+          {
+            "nom": "beurre",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "250 ml"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "350 ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-08-09",
     "menus": [
       {
