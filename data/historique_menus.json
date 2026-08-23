@@ -1,5 +1,1094 @@
 [
   {
+    "semaine_du": "2026-08-23",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de quinoa au poulet grillé, tomates cerises et concombre",
+        "description": "Une salade fraîche et rassasiante avec du quinoa, du poulet grillé et des légumes croquants, assaisonnée d'une vinaigrette au citron.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "quinoa",
+            "quantite": "240 g"
+          },
+          {
+            "nom": "escalopes de poulet",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Cuire le quinoa dans de l'eau salée selon les instructions du paquet, puis laisser refroidir.",
+          "Assaisonner les escalopes de poulet avec sel, poivre et un filet d'huile d'olive, puis les griller à la poêle 5 à 6 minutes de chaque côté. Laisser reposer et trancher en lanières.",
+          "Couper les tomates cerises en deux, le concombre en demi-rondelles et ciseler le persil.",
+          "Mélanger le quinoa, les légumes et le poulet, arroser de jus de citron et d'huile d'olive, assaisonner et servir."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Magret de canard poêlé aux cerises de vinaigre balsamique, purée de pommes de terre",
+        "description": "Des magrets de canard dorés à la poêle servis avec une réduction balsamique aux oignons et une onctueuse purée maison.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "magrets de canard",
+            "quantite": "2 pièces (environ 800 g au total)"
+          },
+          {
+            "nom": "oignon rouge",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "miel",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "pommes de terre à purée (type Bintje)",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "150 ml"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Éplucher et couper les pommes de terre en morceaux, les cuire à l'eau bouillante salée jusqu'à tendreté, puis écraser avec le beurre et le lait chaud pour obtenir une purée lisse.",
+          "Quadriller la peau des magrets au couteau sans atteindre la chair, assaisonner et les cuire côté peau dans une poêle froide à feu moyen 8 minutes, puis 4 minutes côté chair. Réserver au chaud sous aluminium.",
+          "Émincer les oignons rouges et les faire revenir dans la graisse de cuisson, puis déglacer au vinaigre balsamique et ajouter le miel. Laisser réduire 3 minutes à feu vif.",
+          "Trancher les magrets, napper de la sauce balsamique et servir avec la purée."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Soupe de lentilles corail au lard et cumin",
+        "description": "Une soupe veloutée de lentilles corail relevée au cumin, garnie de lardons dorés pour un repas du midi chaud et réconfortant.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "lentilles corail",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "cumin en poudre",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "curcuma",
+            "quantite": "1/2 cuillère à café"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "1,2 litre"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Émincer l'oignon et l'ail, les faire revenir à l'huile d'olive dans une grande casserole avec le cumin et le curcuma pendant 2 à 3 minutes.",
+          "Ajouter les lentilles corail rincées, verser le bouillon et cuire à feu moyen 20 minutes jusqu'à ce que les lentilles soient fondantes.",
+          "Mixer la soupe, ajuster l'assaisonnement et rectifier la consistance avec un peu d'eau si nécessaire.",
+          "Faire dorer les lardons à la poêle et les parsemer sur la soupe au moment de servir."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Cabillaud en papillote aux herbes, tomates et courgettes",
+        "description": "Des pavés de cabillaud cuits en papillote avec des courgettes, des tomates et des herbes fraîches pour un repas léger et savoureux.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pavés de cabillaud",
+            "quantite": "4 pièces (environ 150 g chacun)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 brins"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200 °C. Lancer la cuisson du riz basmati à l'eau salée.",
+          "Couper les courgettes en fines rondelles et les tomates en tranches, émincer l'ail.",
+          "Préparer 4 papillotes en papier sulfurisé : déposer des légumes, un pavé de cabillaud, de l'ail, du thym, un filet d'huile d'olive, sel et poivre. Fermer hermétiquement.",
+          "Enfourner 15 à 18 minutes. Ouvrir les papillotes, parsemer de basilic et d'un trait de jus de citron, servir avec le riz."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Croque-monsieur jambon-fromage et salade verte",
+        "description": "Le grand classique français croustillant, jambon et fromage gratiné, accompagné d'une simple salade verte pour un midi rapide.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pain de mie",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "120 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à café"
+          },
+          {
+            "nom": "salade verte (batavia)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "vinaigrette (huile, vinaigre, moutarde)",
+            "quantite": "à convenance"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Beurrer les tranches de pain de mie sur une face, étaler une fine couche de moutarde sur l'autre face.",
+          "Garnir chaque sandwich d'une tranche de jambon et d'une bonne pincée de gruyère râpé, refermer et parsemer à nouveau de gruyère sur le dessus.",
+          "Faire dorer les croque-monsieur dans une poêle ou passer au four gril 5 à 7 minutes jusqu'à ce que le fromage soit fondu et gratiné.",
+          "Préparer la salade verte assaisonnée de vinaigrette maison et servir avec les croque-monsieur chauds."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Émincé de veau sauté aux champignons et crème, tagliatelles",
+        "description": "Un émincé de veau fondant mijoté avec des champignons de Paris dans une sauce crémeuse, servi sur un lit de tagliatelles.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "émincé de veau",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "tagliatelles",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Émincer l'oignon et l'ail, nettoyer et trancher les champignons. Faire revenir l'oignon dans le beurre et l'huile, ajouter l'ail et les champignons, cuire 5 minutes.",
+          "Ajouter l'émincé de veau dans la poêle, faire dorer sur toutes les faces à feu vif 3 à 4 minutes.",
+          "Incorporer la crème fraîche, assaisonner, baisser le feu et laisser mijoter 10 minutes à couvert.",
+          "Cuire les tagliatelles al dente, égoutter et servir avec la sauce au veau, parsemée de persil ciselé."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Salade niçoise au thon frais grillé",
+        "description": "Une généreuse salade niçoise revisitée avec un steak de thon grillé à la place du thon en boîte, haricots verts, olives et œufs durs.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "steaks de thon frais",
+            "quantite": "4 pièces (environ 130 g chacun)"
+          },
+          {
+            "nom": "haricots verts",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "olives noires",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "anchois à l'huile",
+            "quantite": "8 filets"
+          },
+          {
+            "nom": "salade verte (laitue)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "5 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Cuire les œufs durs 10 minutes, les refroidir et les écaler. Cuire les haricots verts à l'eau bouillante salée 5 minutes, les rafraîchir à l'eau froide.",
+          "Griller les steaks de thon à la poêle ou au gril 2 à 3 minutes de chaque côté selon l'épaisseur. Assaisonner sel et poivre.",
+          "Dresser la salade dans un grand plat : feuilles de laitue, tomates coupées en quartiers, haricots verts, olives, anchois et œufs durs coupés en deux.",
+          "Poser le thon grillé tranché sur la salade, arroser d'une vinaigrette huile d'olive et vinaigre de vin et servir immédiatement."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Poulet basquaise sans poivrons, tomates et olives, riz blanc",
+        "description": "Un poulet mijoté dans une sauce savoureuse aux tomates, olives et herbes inspirée du Pays Basque, adapté sans poivrons.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses et pilons de poulet",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "tomates fraîches",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "olives vertes dénoyautées",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 brins"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "paprika doux",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "riz blanc",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Faire dorer les morceaux de poulet dans l'huile d'olive sur toutes les faces dans une cocotte, réserver.",
+          "Dans la même cocotte, faire revenir les oignons émincés et l'ail écrasé, ajouter le paprika et cuire 2 minutes.",
+          "Ajouter les tomates (fraîches coupées et boîte), les olives, le thym, le laurier, sel et poivre. Remettre le poulet, couvrir et laisser mijoter 25 minutes à feu doux.",
+          "Cuire le riz blanc, servir le poulet avec sa sauce sur le riz."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Tartines de rillettes de thon maison et crudités",
+        "description": "Des tartines généreuses garnies de rillettes de thon faites maison, servies avec un assortiment de crudités fraîches.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes de 160 g"
+          },
+          {
+            "nom": "fromage frais (type Saint-Môret)",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "câpres",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "ciboulette",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Égoutter le thon et le mélanger avec le fromage frais, les câpres hachées, la ciboulette ciselée et le jus de citron. Assaisonner et bien mélanger.",
+          "Toaster les tranches de pain de campagne.",
+          "Préparer les crudités : trancher les tomates, le concombre et tailler les carottes en bâtonnets.",
+          "Étaler généreusement les rillettes de thon sur les tartines et servir avec les crudités."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Côtes de porc marinées au miel et soja, patates douces rôties et brocoli",
+        "description": "Des côtes de porc marinées dans une sauce sucrée-salée au miel et soja, accompagnées de quartiers de patates douces et de brocoli rôtis au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtes de porc",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "miel liquide",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "gingembre frais râpé",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "patates douces",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "brocoli",
+            "quantite": "1 pièce (environ 500 g)"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préparer la marinade en mélangeant sauce soja, miel, ail émincé et gingembre. Badigeonner les côtes de porc et laisser mariner 15 minutes.",
+          "Préchauffer le four à 200 °C. Couper les patates douces en quartiers et les déposer sur une plaque avec le brocoli en fleurettes, arroser d'huile d'olive, sel et poivre. Enfourner 25 minutes.",
+          "Cuire les côtes de porc à la poêle ou sous le gril du four 5 à 6 minutes de chaque côté en les badigeonnant de marinade en cours de cuisson.",
+          "Servir les côtes de porc avec les légumes rôtis et napper du reste de marinade réduite."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Salade de boulgour au saumon fumé, avocat et concombre",
+        "description": "Une salade fraîche et colorée de boulgour garnie de saumon fumé, d'avocat crémeux et de concombre croquant, assaisonnée au citron.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "boulgour",
+            "quantite": "240 g"
+          },
+          {
+            "nom": "saumon fumé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "avocats",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "concombre",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "aneth frais",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Verser le boulgour dans un saladier, couvrir d'eau bouillante salée (volume double du boulgour), couvrir et laisser gonfler 15 minutes, puis égrainer à la fourchette.",
+          "Couper le saumon fumé en lanières, l'avocat en dés (arroser de jus de citron pour éviter le noircissement) et le concombre en demi-rondelles.",
+          "Mélanger le boulgour tiédi ou froid avec les légumes et le saumon.",
+          "Assaisonner d'huile d'olive, jus de citron, sel, poivre et parsemer d'aneth ciselé avant de servir."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Gigot d'agneau rôti au four à l'ail et romarin, gratin dauphinois",
+        "description": "Un gigot d'agneau parfumé à l'ail et au romarin rôti au four, servi avec un gratin dauphinois crémeux pour un repas dominical convivial.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "gigot d'agneau (pré-raccourci)",
+            "quantite": "1,4 kg"
+          },
+          {
+            "nom": "ail",
+            "quantite": "6 gousses"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "4 brins"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "pommes de terre à gratin (type Charlotte)",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "crème liquide entière",
+            "quantite": "400 ml"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200 °C. Piquer le gigot de gousses d'ail coupées en deux, frotter d'huile d'olive, sel, poivre et romarin. Enfourner 25 minutes par 500 g selon la cuisson souhaitée.",
+          "Éplucher et trancher finement les pommes de terre, les disposer en couches dans un plat beurré, assaisonner et ajouter muscade entre chaque couche.",
+          "Mélanger crème et lait, verser sur les pommes de terre, parsemer de gruyère râpé et enfourner à 180 °C pendant 45 minutes (peut être préparé à l'avance et réchauffé).",
+          "Laisser reposer le gigot 10 minutes sous aluminium avant de trancher et servir avec le gratin dauphinois."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Velouté de carottes à la coriandre et filet de rouget poêlé",
+        "description": "Un velouté doux et coloré de carottes parfumé à la coriandre fraîche, accompagné d'un filet de rouget poêlé croustillant.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "carottes",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "coriandre fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "filets de rouget",
+            "quantite": "8 filets (environ 600 g total)"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "crème fraîche",
+            "quantite": "80 ml"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Éplucher et couper les carottes en rondelles, émincer l'oignon et l'ail. Faire revenir dans l'huile d'olive 5 minutes, puis verser le bouillon et cuire 20 minutes à couvert.",
+          "Mixer le velouté avec la crème fraîche et la moitié de la coriandre, assaisonner et réserver au chaud.",
+          "Poêler les filets de rouget dans le beurre chaud 2 minutes côté peau puis 1 minute côté chair, assaisonner.",
+          "Servir le velouté dans des bols avec les filets de rouget posés dessus et le reste de coriandre ciselée."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Lasagnes à la bolognaise maison",
+        "description": "Des lasagnes classiques préparées avec une bolognaise de bœuf maison mijotée et une béchamel crémeuse, gratinées au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "bœuf haché (5% de MG)",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "feuilles de lasagne sèches",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "tomates pelées en boîte",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "500 ml"
+          },
+          {
+            "nom": "farine",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "thym, laurier",
+            "quantite": "à convenance"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à convenance"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon et l'ail émincés dans l'huile d'olive, ajouter le bœuf haché et faire dorer. Incorporer les tomates, le concentré, le thym, le laurier, sel et poivre. Laisser mijoter 15 minutes.",
+          "Préparer la béchamel : faire fondre le beurre, incorporer la farine, puis verser le lait progressivement en fouettant. Cuire jusqu'à épaississement, assaisonner avec muscade, sel et poivre.",
+          "Dans un plat à gratin, alterner couches de bolognaise, feuilles de lasagne et béchamel. Terminer par la béchamel et parsemer de gruyère râpé.",
+          "Enfourner à 180 °C pendant 30 minutes jusqu'à ce que le dessus soit doré et gratiné. Laisser reposer 5 minutes avant de servir."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Viandes & Poissons",
+        "items": [
+          {
+            "nom": "Escalopes de poulet",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "Magrets de canard",
+            "quantite": "2 pièces (~800 g)"
+          },
+          {
+            "nom": "Lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "Pavés de cabillaud",
+            "quantite": "4 pièces (~600 g)"
+          },
+          {
+            "nom": "Cuisses et pilons de poulet",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "Steaks de thon frais",
+            "quantite": "4 pièces (~520 g)"
+          },
+          {
+            "nom": "Émincé de veau",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "Côtes de porc",
+            "quantite": "4 pièces"
+          },
+          {
+            "nom": "Saumon fumé",
+            "quantite": "400 g (200 g + 200 g)"
+          },
+          {
+            "nom": "Gigot d'agneau",
+            "quantite": "1,4 kg"
+          },
+          {
+            "nom": "Filets de rouget",
+            "quantite": "8 filets (~600 g)"
+          },
+          {
+            "nom": "Bœuf haché 5% MG",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "Thon en boîte au naturel",
+            "quantite": "2 boîtes de 160 g"
+          },
+          {
+            "nom": "Filets d'anchois à l'huile",
+            "quantite": "8 filets"
+          },
+          {
+            "nom": "Jambon blanc",
+            "quantite": "4 tranches"
+          }
+        ]
+      },
+      {
+        "rayon": "Fruits & Légumes",
+        "items": [
+          {
+            "nom": "Tomates cerises",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "Concombre",
+            "quantite": "3 pièces"
+          },
+          {
+            "nom": "Courgettes",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "Tomates fraîches",
+            "quantite": "12 pièces"
+          },
+          {
+            "nom": "Haricots verts",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "Carottes",
+            "quantite": "900 g (700 g velouté + 200 g crudités)"
+          },
+          {
+            "nom": "Oignons (jaunes)",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "Oignons rouges",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "Ail",
+            "quantite": "3 têtes"
+          },
+          {
+            "nom": "Patates douces",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "Pommes de terre à purée",
+            "quantite": "1 kg"
+          },
+          {
+            "nom": "Pommes de terre à gratin",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "Brocoli",
+            "quantite": "1 pièce (~500 g)"
+          },
+          {
+            "nom": "Avocats",
+            "quantite": "2 pièces"
+          },
+          {
+            "nom": "Champignons de Paris",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "Citrons",
+            "quantite": "8 pièces"
+          },
+          {
+            "nom": "Salade verte (batavia)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "Salade verte (laitue)",
+            "quantite": "1 pièce"
+          },
+          {
+            "nom": "Persil frais",
+            "quantite": "2 bouquets"
+          },
+          {
+            "nom": "Basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "Coriandre fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "Thym frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "Romarin frais",
+            "quantite": "4 brins"
+          },
+          {
+            "nom": "Aneth frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "Ciboulette",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "Gingembre frais",
+            "quantite": "1 morceau (~4 cm)"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "Quinoa",
+            "quantite": "240 g"
+          },
+          {
+            "nom": "Riz basmati",
+            "quantite": "560 g"
+          },
+          {
+            "nom": "Riz blanc",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "Lentilles corail",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "Boulgour",
+            "quantite": "240 g"
+          },
+          {
+            "nom": "Tagliatelles",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "Pain de mie",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "Pain de campagne",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "Feuilles de lasagne sèches",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "Tomates pelées en boîte",
+            "quantite": "3 boîtes de 400 g"
+          },
+          {
+            "nom": "Concentré de tomates",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "Olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "Olives vertes dénoyautées",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "Câpres",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "Bouillon de légumes",
+            "quantite": "2,2 litres (cubes ou liquide)"
+          },
+          {
+            "nom": "Sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "Miel liquide",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "Vinaigre balsamique",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "Vinaigre de vin",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "Huile d'olive",
+            "quantite": "1 bouteille (500 ml)"
+          },
+          {
+            "nom": "Moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "Cumin en poudre",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "Curcuma",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "Paprika doux",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "Noix de muscade",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "Thym séché / laurier",
+            "quantite": "1 paquet"
+          },
+          {
+            "nom": "Farine",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "Sel, poivre",
+            "quantite": "à convenance"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits Laitiers",
+        "items": [
+          {
+            "nom": "Beurre",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "Lait entier",
+            "quantite": "1,2 litre"
+          },
+          {
+            "nom": "Crème fraîche épaisse",
+            "quantite": "200 ml"
+          },
+          {
+            "nom": "Crème liquide entière",
+            "quantite": "480 ml"
+          },
+          {
+            "nom": "Fromage frais (type Saint-Môret)",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "Gruyère râpé",
+            "quantite": "370 g"
+          },
+          {
+            "nom": "Œufs",
+            "quantite": "8 pièces"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-08-16",
     "menus": [
       {
