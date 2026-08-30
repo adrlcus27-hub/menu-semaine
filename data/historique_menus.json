@@ -1,5 +1,970 @@
 [
   {
+    "semaine_du": "2026-08-30",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Wrap au jambon, fromage et crudités",
+        "description": "Des wraps garnis de jambon, emmental râpé, laitue et tomates, rapides à assembler pour un déjeuner léger.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "tortillas de blé",
+            "quantite": "4 grandes"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "laitue",
+            "quantite": "4 feuilles"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "moutarde",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "4 c. à soupe"
+          }
+        ],
+        "etapes": [
+          "Laver et émincer la laitue, couper les tomates en rondelles.",
+          "Mélanger la crème fraîche et la moutarde, étaler ce mélange sur chaque tortilla.",
+          "Disposer le jambon, l'emmental, la laitue et les tomates sur chaque tortilla.",
+          "Rouler fermement les wraps, couper en deux en biais et servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Saumon en papillote à la crème citronnée, courgettes et riz basmati",
+        "description": "Des pavés de saumon cuits en papillote avec une sauce citronnée légère et des courgettes fondantes, servis avec du riz basmati.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "crème fraîche liquide entière",
+            "quantite": "15 cl"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "aneth séché",
+            "quantite": "1 c. à café"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200 °C. Lancer la cuisson du riz basmati dans une casserole d'eau salée.",
+          "Couper les courgettes en rondelles. Découper 4 feuilles de papier cuisson, disposer les courgettes au centre de chacune.",
+          "Poser un pavé de saumon sur les courgettes, arroser de crème, d'un filet de citron, d'aneth, de sel et de poivre. Fermer les papillotes.",
+          "Enfourner 18 à 20 minutes. Servir les papillotes ouvertes avec le riz basmati."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Salade verte aux lardons et œufs pochés",
+        "description": "Une salade composée classique avec des lardons croustillants, des œufs pochés et une vinaigrette à la moutarde.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "mélange de salades (frisée, batavia)",
+            "quantite": "1 sachet (200 g)"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4"
+          },
+          {
+            "nom": "vinaigre blanc",
+            "quantite": "3 c. à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 c. à café"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "3 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          }
+        ],
+        "etapes": [
+          "Faire revenir les lardons à sec dans une poêle jusqu'à ce qu'ils soient dorés. Réserver.",
+          "Porter une casserole d'eau vinaigrée à frémissement et pocher les œufs 3 minutes. Égoutter.",
+          "Préparer la vinaigrette avec moutarde, vinaigre, huile, sel et poivre. Mélanger avec la salade.",
+          "Répartir la salade dans les assiettes, garnir de lardons et d'un œuf poché. Servir avec les tranches de pain grillé."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Poulet rôti aux herbes de Provence et pommes de terre fondantes",
+        "description": "Des morceaux de poulet dorés au four avec des pommes de terre et des herbes de Provence pour un plat familial savoureux.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "morceaux de poulet (cuisses et hauts de cuisse)",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "2 c. à café"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200 °C. Éplucher et couper les pommes de terre en quartiers. Écraser les gousses d'ail en chemise.",
+          "Disposer les morceaux de poulet et les pommes de terre dans un grand plat. Arroser d'huile d'olive, saupoudrer d'herbes de Provence, ajouter l'ail et le thym.",
+          "Assaisonner généreusement de sel et poivre. Mélanger pour bien enrober.",
+          "Enfourner 35 à 40 minutes en retournant les morceaux à mi-cuisson. Servir directement dans le plat."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Soupe de tomates maison au chorizo et croûtons",
+        "description": "Une soupe de tomates veloutée et parfumée, relevée par le chorizo et servie avec des croûtons croustillants.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "2 boîtes (800 g)"
+          },
+          {
+            "nom": "chorizo doux",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "50 cl"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "1 c. à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Émincer l'oignon et l'ail, couper le chorizo en rondelles. Faire revenir l'oignon et l'ail dans l'huile d'olive 3 minutes.",
+          "Ajouter les tomates concassées, le concentré et le bouillon. Porter à ébullition puis laisser mijoter 15 minutes.",
+          "Mixer la soupe jusqu'à obtenir un velouté lisse. Faire rissoler les rondelles de chorizo 2 minutes dans la poêle.",
+          "Griller les tranches de pain. Servir la soupe chaude garnie de chorizo et de croûtons."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Escalopes de dinde panées, purée maison et haricots verts",
+        "description": "Des escalopes de dinde panées dorées à la poêle, accompagnées d'une purée de pommes de terre maison et de haricots verts.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "escalopes de dinde",
+            "quantite": "4 (environ 150 g chacune)"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "2"
+          },
+          {
+            "nom": "farine",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "50 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "10 cl"
+          },
+          {
+            "nom": "haricots verts surgelés",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "4 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Éplucher et cuire les pommes de terre à l'eau salée 20 minutes. Cuire les haricots verts en parallèle selon les instructions.",
+          "Préparer la panure : tremper chaque escalope dans la farine, puis dans l'œuf battu, puis dans la chapelure.",
+          "Faire dorer les escalopes panées dans l'huile chaude, 4 minutes de chaque côté, jusqu'à belle coloration.",
+          "Écraser les pommes de terre avec le beurre et le lait chaud. Assaisonner. Servir les escalopes avec la purée et les haricots verts."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Salade de riz au thon, maïs, tomates et olives",
+        "description": "Une salade de riz complète et colorée avec du thon en boîte, des légumes croquants et une vinaigrette au citron.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "riz long grain cuit (ou à cuire)",
+            "quantite": "300 g (poids cru)"
+          },
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes (320 g égouttés)"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 petite boîte (200 g égouttés)"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 c. à soupe"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Cuire le riz dans une grande casserole d'eau salée selon les indications. Égoutter et laisser refroidir.",
+          "Couper les tomates cerises en deux. Égoutter le thon et le maïs. Ciseler le persil.",
+          "Préparer la vinaigrette avec le jus de citron, l'huile d'olive, le sel et le poivre.",
+          "Mélanger le riz avec tous les ingrédients et la vinaigrette. Servir frais ou à température ambiante."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Bœuf bourguignon express et tagliatelles fraîches",
+        "description": "Un bœuf bourguignon simplifié mijoté avec des champignons et du vin rouge, servi sur un lit de tagliatelles fraîches.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "bœuf à braiser (paleron) coupé en cubes",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "champignons de Paris",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "25 cl"
+          },
+          {
+            "nom": "bouillon de bœuf",
+            "quantite": "25 cl"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "1 c. à soupe"
+          },
+          {
+            "nom": "farine",
+            "quantite": "1 c. à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Émincer les oignons et l'ail, nettoyer et couper les champignons. Faire dorer les lardons dans l'huile d'olive dans une cocotte, réserver.",
+          "Faire saisir les cubes de bœuf sur toutes leurs faces. Ajouter les oignons et l'ail, faire revenir 2 minutes.",
+          "Saupoudrer de farine, ajouter le concentré, verser le vin et le bouillon. Ajouter les champignons, les lardons et le thym. Couvrir et mijoter 25 minutes à feu moyen.",
+          "Cuire les tagliatelles 3 minutes dans l'eau bouillante salée. Servir le bœuf bourguignon express sur les pâtes."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Crêpes complètes au jambon, œuf et fromage",
+        "description": "Des crêpes de blé garnies à la façon bretonne avec jambon, œuf sur le plat et fromage fondu, pour un déjeuner simple et gourmand.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "farine de blé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "6 (2 pour la pâte + 4 pour la garniture)"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "50 cl"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "4 tranches"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "120 g"
+          },
+          {
+            "nom": "sel",
+            "quantite": "1 pincée"
+          }
+        ],
+        "etapes": [
+          "Préparer la pâte à crêpes en mélangeant farine, 2 œufs, lait et sel. Laisser reposer 10 minutes.",
+          "Cuire 4 crêpes dans une poêle beurrée. Garder la crêpe dans la poêle pour la garnir.",
+          "Déposer une tranche de jambon, casser un œuf au centre, parsemer d'emmental. Replier les bords et couvrir jusqu'à cuisson de l'œuf.",
+          "Servir immédiatement, dès que l'œuf est cuit à votre convenance."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Dos de cabillaud rôti sur lit de tomates provençales et pommes de terre vapeur",
+        "description": "Du cabillaud rôti au four sur des tomates à la provençale, servi avec des pommes de terre vapeur et du persil frais.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "dos de cabillaud",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "4 grosses"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 c. à soupe"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190 °C. Cuire les pommes de terre à la vapeur 20 minutes.",
+          "Couper les tomates en deux, les disposer dans un plat huilé. Mélanger la chapelure, l'ail écrasé, le persil haché, l'huile, le sel et le poivre. En parsemer les tomates.",
+          "Poser les dos de cabillaud sur les tomates, arroser d'huile d'olive, saler et poivrer. Ajouter le thym.",
+          "Enfourner 18 à 20 minutes. Servir avec les pommes de terre vapeur et parsemer de persil frais."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Omelette aux lardons, pommes de terre et herbes fraîches",
+        "description": "Une généreuse omelette paysanne garnie de pommes de terre sautées, de lardons et de ciboulette, idéale pour le déjeuner du week-end.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "œufs",
+            "quantite": "8"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Éplucher et couper les pommes de terre en petits dés. Les faire sauter dans l'huile pendant 15 minutes à feu moyen jusqu'à dorure.",
+          "Ajouter les lardons aux pommes de terre et faire revenir 3 minutes supplémentaires.",
+          "Battre les œufs avec le sel, le poivre et la ciboulette ciselée. Verser dans la poêle avec le beurre.",
+          "Cuire l'omelette à feu moyen en rabattant les bords, la servir légèrement baveuse ou bien cuite selon les goûts."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Côte de veau poêlée au beurre citronné, asperges et gratin de courgettes",
+        "description": "De belles côtes de veau dorées au beurre et finies au citron, accompagnées d'asperges vertes et d'un gratin de courgettes fondant.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtes de veau",
+            "quantite": "4"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "1"
+          },
+          {
+            "nom": "asperges vertes",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "3"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "15 cl"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 gousse"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 180 °C. Couper les courgettes en rondelles, les disposer dans un plat beurré avec l'ail haché. Arroser de crème, couvrir de gruyère et enfourner 25 minutes.",
+          "Casser la base des asperges et les blanchir 5 minutes dans l'eau bouillante salée. Égoutter.",
+          "Saler et poivrer les côtes de veau. Les saisir dans un mélange beurre-huile 5 à 6 minutes de chaque côté.",
+          "Déglacer la poêle avec le jus de citron et le reste de beurre. Napper les côtes de veau. Servir avec les asperges et le gratin de courgettes."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Pizza maison jambon-champignons-mozzarella",
+        "description": "Une pizza maison généreuse garnie de champignons, jambon et mozzarella fondue, sur une pâte dorée et croustillante.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "pâte à pizza prête à l'emploi (grande)",
+            "quantite": "2 pâtes"
+          },
+          {
+            "nom": "sauce tomate",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "champignons de Paris frais",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "origan séché",
+            "quantite": "1 c. à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 c. à soupe"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 220 °C. Nettoyer et émincer les champignons. Couper le jambon en lanières et la mozzarella en tranches.",
+          "Étaler les pâtes à pizza sur des plaques de cuisson. Répartir la sauce tomate uniformément.",
+          "Disposer les champignons, le jambon et la mozzarella sur chaque pizza. Saupoudrer d'origan, saler, poivrer et arroser d'un filet d'huile d'olive.",
+          "Enfourner 12 à 15 minutes jusqu'à ce que la pâte soit dorée et le fromage fondu. Servir aussitôt."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Filet de bar en croûte d'herbes, tian de légumes provençaux",
+        "description": "Des filets de bar recouverts d'une croûte d'herbes fraîches et parmesan, accompagnés d'un tian de légumes du soleil cuit au four.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "filets de bar",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1/2 bouquet"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "2"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 c. à soupe"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "3 branches"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190 °C. Émincer les courgettes, tomates et oignons en rondelles. Les disposer en alternance dans un plat huilé, ajouter le thym, l'huile, le sel et le poivre. Enfourner le tian 25 minutes.",
+          "Mélanger la chapelure, le parmesan, le persil et la ciboulette hachés, le beurre fondu, le sel et le poivre pour obtenir une pâte d'herbes.",
+          "Poser les filets de bar sur une plaque, côté peau vers le bas. Répartir la croûte d'herbes sur chaque filet en pressant légèrement.",
+          "Enfourner le poisson les 12 dernières minutes du tian. Servir les filets de bar sur le tian de légumes chaud."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "tomates",
+            "quantite": "environ 13 (dont tomates cerises 200g)"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "7"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "2,5 kg"
+          },
+          {
+            "nom": "champignons de Paris frais",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "asperges vertes",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "laitue / mélange de salades",
+            "quantite": "1 salade + 1 sachet 200 g"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "5"
+          },
+          {
+            "nom": "ail",
+            "quantite": "1 tête (environ 12 gousses)"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "3"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "3 bouquets"
+          },
+          {
+            "nom": "ciboulette fraîche",
+            "quantite": "1,5 bouquet"
+          },
+          {
+            "nom": "aneth séché",
+            "quantite": "1 petit flacon"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 botte"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 petit flacon"
+          }
+        ]
+      },
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "pavés de saumon",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "morceaux de poulet (cuisses et hauts de cuisse)",
+            "quantite": "1,2 kg"
+          },
+          {
+            "nom": "escalopes de dinde",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "bœuf à braiser (paleron) en cubes",
+            "quantite": "700 g"
+          },
+          {
+            "nom": "côtes de veau",
+            "quantite": "4"
+          },
+          {
+            "nom": "filets de bar",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "dos de cabillaud",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "jambon blanc",
+            "quantite": "600 g (soit environ 8 tranches)"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "chorizo doux",
+            "quantite": "100 g"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "tortillas de blé grandes",
+            "quantite": "4"
+          },
+          {
+            "nom": "riz basmati",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "riz long grain",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "farine de blé",
+            "quantite": "250 g (200g crêpes + 50g panure)"
+          },
+          {
+            "nom": "chapelure",
+            "quantite": "180 g"
+          },
+          {
+            "nom": "bouillon de légumes (cubes ou briques)",
+            "quantite": "50 cl"
+          },
+          {
+            "nom": "bouillon de bœuf (cubes ou briques)",
+            "quantite": "25 cl"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "2 boîtes (800 g)"
+          },
+          {
+            "nom": "concentré de tomates",
+            "quantite": "1 petite boîte"
+          },
+          {
+            "nom": "thon en boîte au naturel",
+            "quantite": "2 boîtes (320 g égouttés)"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "1 petite boîte (200 g)"
+          },
+          {
+            "nom": "olives noires dénoyautées",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "sauce tomate pour pizza",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "pâtes à pizza prêtes à l'emploi grandes",
+            "quantite": "2"
+          },
+          {
+            "nom": "vin rouge",
+            "quantite": "25 cl"
+          },
+          {
+            "nom": "vinaigre blanc",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "huile de tournesol",
+            "quantite": "1 bouteille"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "origan séché",
+            "quantite": "1 flacon"
+          },
+          {
+            "nom": "sel et poivre",
+            "quantite": "selon stock"
+          },
+          {
+            "nom": "haricots verts surgelés",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "1 miche (environ 10 tranches)"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers & œufs",
+        "items": [
+          {
+            "nom": "œufs",
+            "quantite": "18 (2 pâte crêpes + 4 garniture + 4 salade + 2 panure + 8 omelette - vérifier les calculs: 20 œufs pour être sûr)"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "60 cl"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "30 cl"
+          },
+          {
+            "nom": "crème fraîche liquide entière",
+            "quantite": "15 cl"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "220 g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "mozzarella",
+            "quantite": "250 g"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-08-23",
     "menus": [
       {
