@@ -1,5 +1,1138 @@
 [
   {
+    "semaine_du": "2026-09-06",
+    "menus": [
+      {
+        "jour": "Lundi",
+        "moment": "midi",
+        "plat": "Salade de pâtes au jambon, tomates cerises et mozzarella",
+        "description": "Une salade fraîche et généreuse de pâtes courtes avec jambon, tomates cerises et billes de mozzarella, assaisonnée à l'huile d'olive et basilic.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "pâtes fusilli",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "jambon cuit en tranches épaisses",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "250 g"
+          },
+          {
+            "nom": "mozzarella en billes (ciliegine)",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Cuire les pâtes al dente selon les indications, les égoutter et les refroidir sous l'eau froide.",
+          "Couper le jambon en dés, couper les tomates cerises en deux, égoutter les billes de mozzarella.",
+          "Mélanger tous les ingrédients dans un grand saladier, assaisonner d'huile d'olive, de vinaigre balsamique, sel et poivre.",
+          "Parsemer de feuilles de basilic frais et servir aussitôt ou réserver au frais."
+        ]
+      },
+      {
+        "jour": "Lundi",
+        "moment": "soir",
+        "plat": "Cuisse de poulet confite au citron et thym, pommes de terre grenaille rôties",
+        "description": "Des cuisses de poulet tendres et dorées, marinées au citron et au thym, rôties au four avec des pommes de terre grenaille croustillantes.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "cuisses de poulet entières",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre grenaille",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Mélanger l'huile d'olive, le jus d'un citron, le thym effeuillé, l'ail écrasé, sel et poivre dans un grand plat.",
+          "Enrober les cuisses de poulet de marinade, ajouter les pommes de terre grenaille coupées en deux autour, et disposer des rondelles du second citron.",
+          "Enfourner 35-40 minutes en retournant les pommes de terre à mi-cuisson, jusqu'à ce que le poulet soit bien doré.",
+          "Vérifier la cuisson du poulet (jus clair) et servir directement dans le plat."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "midi",
+        "plat": "Velouté de courgettes au chèvre frais et lardons croustillants",
+        "description": "Un velouté tout doux de courgettes relevé par le chèvre frais fondant, garni de lardons dorés pour le croquant.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "courgettes",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "chèvre frais (bûche)",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "bouillon de légumes",
+            "quantite": "800 ml"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "4 tranches"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon émincé dans l'huile d'olive, ajouter les courgettes en rondelles, mouiller avec le bouillon et cuire 20 minutes.",
+          "Mixer le tout avec le chèvre frais et la crème fraîche jusqu'à obtenir un velouté lisse, rectifier l'assaisonnement.",
+          "Dans une poêle, faire dorer les lardons à sec jusqu'à ce qu'ils soient croustillants.",
+          "Servir le velouté chaud dans des bols, parsemer de lardons croustillants et accompagner de pain de campagne grillé."
+        ]
+      },
+      {
+        "jour": "Mardi",
+        "moment": "soir",
+        "plat": "Pavé de saumon teriyaki, riz japonais et brocoli vapeur",
+        "description": "Des pavés de saumon laqués à la sauce teriyaki maison, servis avec du riz japonais collant et des fleurettes de brocoli vapeur.",
+        "temps_minutes": 30,
+        "ingredients": [
+          {
+            "nom": "pavés de saumon (sans peau)",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "riz japonais à sushi",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "brocoli",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "miel",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de riz",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "gingembre frais râpé",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "1 cuillère à soupe"
+          }
+        ],
+        "etapes": [
+          "Lancer la cuisson du riz japonais rincé selon les indications. Cuire les fleurettes de brocoli à la vapeur 8-10 minutes.",
+          "Préparer la sauce teriyaki en mélangeant sauce soja, miel, vinaigre de riz et gingembre râpé.",
+          "Faire chauffer l'huile dans une poêle, cuire les pavés de saumon 3 minutes par face, puis verser la sauce teriyaki et laisser caraméliser 1-2 minutes en arrosant les pavés.",
+          "Servir le saumon sur le riz, napper de sauce, déposer le brocoli à côté et parsemer de graines de sésame."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "midi",
+        "plat": "Quesillas au poulet rôti effiloché, fromage et maïs",
+        "description": "Des tortillas dorées et croustillantes fourrées de poulet effiloché, fromage fondu et maïs, servies avec une sauce tomate maison.",
+        "temps_minutes": 25,
+        "ingredients": [
+          {
+            "nom": "tortillas de blé (grande taille)",
+            "quantite": "8"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "2 (environ 300 g)"
+          },
+          {
+            "nom": "maïs en boîte égoutté",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "paprika doux",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les blancs de poulet dans une poêle huilée avec sel, poivre et paprika, puis les effilocher à la fourchette.",
+          "Préparer une sauce tomate rapide en faisant revenir l'oignon émincé avec les tomates concassées, sel et poivre, 10 minutes à feu moyen.",
+          "Garnir une moitié de chaque tortilla de poulet effiloché, maïs et fromage râpé, replier en demi-lune et faire dorer à la poêle 2-3 minutes par face.",
+          "Couper les quesillas en parts et servir avec la sauce tomate en accompagnement."
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "moment": "soir",
+        "plat": "Côtes d'agneau grillées, ratatouille express et semoule",
+        "description": "Des côtes d'agneau marinées à l'ail et au romarin, grillées à la poêle, accompagnées d'une ratatouille rapide et de semoule parfumée.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "côtes d'agneau",
+            "quantite": "8 (2 par personne)"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "2"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "semoule moyenne",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "bouillon de légumes chaud",
+            "quantite": "300 ml"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Mariner les côtes d'agneau avec 2 cuillères à soupe d'huile d'olive, l'ail haché et le romarin effeuillé, sel et poivre.",
+          "Couper courgettes, aubergine et tomates en petits dés, faire sauter à la poêle avec 2 cuillères à soupe d'huile d'olive et les herbes de Provence 15 minutes à feu moyen-vif.",
+          "Verser la semoule dans un saladier, couvrir de bouillon chaud, couvrir d'un film et laisser gonfler 5 minutes puis égrainer à la fourchette.",
+          "Cuire les côtes d'agneau dans une poêle très chaude 3-4 minutes par face selon l'épaisseur et servir avec la ratatouille et la semoule."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "midi",
+        "plat": "Soupe de poisson maison aux vermicelles et rouille légère",
+        "description": "Une soupe de poisson parfumée au safran avec des filets de poisson blanc et des vermicelles, servie avec une rouille légère sur des croûtons.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "filets de lieu jaune",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "vermicelles fins",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "ail",
+            "quantite": "3 gousses"
+          },
+          {
+            "nom": "bouillon de poisson (cube ou fond)",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "safran en filaments",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "1 feuille"
+          },
+          {
+            "nom": "mayonnaise",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "8 tranches fines"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Faire revenir l'oignon et l'ail hachés dans l'huile d'olive, ajouter les tomates concassées, le thym, le laurier et le safran, cuire 5 minutes.",
+          "Ajouter le bouillon de poisson, porter à ébullition puis ajouter les filets de lieu jaune coupés en morceaux, cuire 10 minutes à feu doux.",
+          "Ajouter les vermicelles et cuire encore 5 minutes. Préparer la rouille en mélangeant la mayonnaise avec une gousse d'ail pressée.",
+          "Faire griller les tranches de pain, servir la soupe chaude avec les croûtons tartinés de rouille à part."
+        ]
+      },
+      {
+        "jour": "Jeudi",
+        "moment": "soir",
+        "plat": "Rôti de porc au lait, carottes et pommes de terre vapeur",
+        "description": "Un rôti de porc moelleux cuit doucement dans le lait avec ail et laurier, accompagné de carottes et pommes de terre vapeur.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "rôti de porc dans le filet",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "500 ml"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "4"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "2 feuilles"
+          },
+          {
+            "nom": "thym",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Faire dorer le rôti sur toutes ses faces dans un mélange beurre-huile dans une cocotte à feu vif, saler et poivrer.",
+          "Ajouter le lait, l'ail en chemise, le laurier et le thym, couvrir et laisser cuire à feu doux 30-35 minutes en retournant à mi-cuisson.",
+          "Pendant ce temps, cuire les carottes en rondelles et les pommes de terre en cubes à la vapeur 20 minutes.",
+          "Trancher le rôti, napper du jus de cuisson réduit et crémeux, servir avec les légumes vapeur."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "midi",
+        "plat": "Tartines gratinées au jambon, tomate et gruyère avec salade verte",
+        "description": "Un repas simple et rapide : des grandes tartines de pain au jambon et tomate gratinées au gruyère, accompagnées d'une salade verte croquante.",
+        "temps_minutes": 15,
+        "ingredients": [
+          {
+            "nom": "pain de campagne ou baguette",
+            "quantite": "1 grosse baguette ou 8 tranches de pain"
+          },
+          {
+            "nom": "jambon cuit tranché",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "salade verte (frisée ou batavia)",
+            "quantite": "1"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le grill du four. Couper le pain en tranches et les faire légèrement griller.",
+          "Tartiner chaque tranche de moutarde, déposer une tranche de jambon, des rondelles de tomate, puis couvrir généreusement de gruyère râpé.",
+          "Passer sous le grill 5-7 minutes jusqu'à ce que le fromage soit fondu et doré.",
+          "Préparer la salade assaisonnée d'huile d'olive et de vinaigre et servir en accompagnement."
+        ]
+      },
+      {
+        "jour": "Vendredi",
+        "moment": "soir",
+        "plat": "Dos de cabillaud en croûte de parmesan, épinards à la crème et tagliatelles",
+        "description": "Des dos de cabillaud couverts d'une croûte dorée au parmesan, posés sur un lit d'épinards à la crème, accompagnés de tagliatelles fraîches.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "dos de cabillaud épais",
+            "quantite": "4 (environ 150 g chacun)"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "chapelure fine",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "150 ml"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 gousses"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "20 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 200°C. Mélanger le parmesan et la chapelure, presser ce mélange sur le dessus de chaque dos de cabillaud huilé, enfourner 15-18 minutes.",
+          "Faire revenir l'ail haché dans le beurre, ajouter les épinards frais et les faire tomber 3-4 minutes, puis incorporer la crème fraîche, la muscade, sel et poivre et laisser réduire 3 minutes.",
+          "Cuire les tagliatelles fraîches selon les indications (2-3 minutes en eau bouillante salée).",
+          "Servir le cabillaud crouté sur les épinards à la crème avec les tagliatelles bien égouttées."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "midi",
+        "plat": "Burger maison bœuf cheddar, salade et tomate",
+        "description": "Des burgers faits maison avec steaks hachés juteux, cheddar fondu, salade et tomate dans un bun toasté, avec frites au four.",
+        "temps_minutes": 35,
+        "ingredients": [
+          {
+            "nom": "steaks hachés 15% MG",
+            "quantite": "4 (150 g chacun)"
+          },
+          {
+            "nom": "buns à burger",
+            "quantite": "4"
+          },
+          {
+            "nom": "cheddar en tranches",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "salade iceberg",
+            "quantite": "1/2"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "2"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "8"
+          },
+          {
+            "nom": "ketchup",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "mayonnaise",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 220°C. Couper les pommes de terre en frites, les enrober d'huile d'olive et de sel, enfourner 25-30 minutes en retournant à mi-cuisson.",
+          "Préparer la sauce burger en mélangeant ketchup, mayonnaise et moutarde. Couper tomates en rondelles, émincer la salade iceberg.",
+          "Faire cuire les steaks hachés dans une poêle très chaude 2-3 minutes par face, poser 2 tranches de cheddar sur chacun en fin de cuisson et couvrir pour faire fondre.",
+          "Toaster les buns coupés en deux, assembler les burgers avec sauce, salade, tomate, steak fromage et cornichons, servir avec les frites."
+        ]
+      },
+      {
+        "jour": "Samedi",
+        "moment": "soir",
+        "plat": "Filets de daurade royale en papillote aux herbes et citron, risotto crémeux",
+        "description": "Des filets de daurade cuits en papillote avec herbes fraîches et citron, accompagnés d'un risotto crémeux au parmesan.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "filets de daurade royale",
+            "quantite": "4 (environ 160 g chacun)"
+          },
+          {
+            "nom": "riz arborio pour risotto",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "bouillon de légumes chaud",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "vin blanc sec",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "oignon",
+            "quantite": "1"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "60 g"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "citron",
+            "quantite": "2"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "3 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 190°C. Déposer chaque filet de daurade sur un carré de papier cuisson, arroser d'huile d'olive, ajouter rondelles de citron, thym et persil, former les papillotes et enfourner 18-20 minutes.",
+          "Faire revenir l'oignon émincé dans la moitié du beurre, ajouter le riz arborio et le nacrer 2 minutes, déglacer au vin blanc.",
+          "Ajouter le bouillon chaud louche par louche en remuant constamment pendant 18-20 minutes jusqu'à ce que le riz soit al dente.",
+          "Hors du feu, incorporer le reste du beurre et le parmesan (mantecare), rectifier l'assaisonnement et servir avec les papillotes ouvertes à table."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "midi",
+        "plat": "Salade composée au poulet fumé, avocat, maïs et œufs durs",
+        "description": "Une grande salade composée et colorée au poulet fumé, avocat crémeux, maïs et œufs durs, assaisonnée d'une vinaigrette à la moutarde.",
+        "temps_minutes": 20,
+        "ingredients": [
+          {
+            "nom": "escalopes de poulet fumé (ou blanc fumé)",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "avocats mûrs",
+            "quantite": "2"
+          },
+          {
+            "nom": "maïs en boîte égoutté",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "œufs",
+            "quantite": "4"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "salade romaine",
+            "quantite": "1"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de cidre",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Faire cuire les œufs durs 10 minutes dans l'eau bouillante, les refroidir et les écaler.",
+          "Préparer la vinaigrette en fouettant moutarde à l'ancienne, vinaigre de cidre, huile d'olive, sel et poivre.",
+          "Couper le poulet fumé en lamelles, les avocats en tranches, les tomates cerises en deux, les œufs en quartiers. Déchirer la romaine.",
+          "Disposer tous les ingrédients dans un grand saladier, arroser de vinaigrette et mélanger délicatement."
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "moment": "soir",
+        "plat": "Carré d'agneau rôti au four, gratin de courgettes et tomates provençal",
+        "description": "Un carré d'agneau rôti à cœur avec une croûte d'herbes, accompagné d'un gratin fondant de courgettes et tomates aux herbes de Provence.",
+        "temps_minutes": 40,
+        "ingredients": [
+          {
+            "nom": "carré d'agneau (2 carrés de 4 côtes)",
+            "quantite": "environ 1,2 kg au total"
+          },
+          {
+            "nom": "courgettes",
+            "quantite": "3"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "3"
+          },
+          {
+            "nom": "ail",
+            "quantite": "4 gousses"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "2 cuillères à café"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "2 branches"
+          },
+          {
+            "nom": "chapelure fine",
+            "quantite": "30 g"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "40 g"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "5 cuillères à soupe"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ],
+        "etapes": [
+          "Préchauffer le four à 210°C. Badigeonner les carrés d'agneau de moutarde, mélanger chapelure, parmesan, herbes de Provence et 2 cuillères à soupe d'huile, presser ce mélange sur la chair. Saisir rapidement à la poêle puis enfourner 20-25 minutes.",
+          "Couper courgettes et tomates en rondelles épaisses, les disposer en alternant dans un plat à gratin huilé, ajouter l'ail émincé, les herbes de Provence et arroser d'huile d'olive.",
+          "Enfourner le gratin en même temps que l'agneau (ou en décalé), cuire 25-30 minutes jusqu'à légère coloration.",
+          "Laisser reposer les carrés d'agneau 5 minutes sous du papier aluminium avant de les découper en côtelettes et servir avec le gratin."
+        ]
+      }
+    ],
+    "liste_courses": [
+      {
+        "rayon": "Viandes & poissons",
+        "items": [
+          {
+            "nom": "cuisses de poulet entières",
+            "quantite": "4"
+          },
+          {
+            "nom": "blancs de poulet",
+            "quantite": "2 (environ 300 g)"
+          },
+          {
+            "nom": "poulet fumé (escalopes ou blanc fumé)",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "rôti de porc dans le filet",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "steaks hachés 15% MG",
+            "quantite": "4 (150 g chacun, soit 600 g)"
+          },
+          {
+            "nom": "côtes d'agneau",
+            "quantite": "8"
+          },
+          {
+            "nom": "carré d'agneau (2 carrés de 4 côtes)",
+            "quantite": "environ 1,2 kg"
+          },
+          {
+            "nom": "pavés de saumon sans peau",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "filets de lieu jaune",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "filets de lieu noir (pour soupe)",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "dos de cabillaud épais",
+            "quantite": "4 (environ 600 g)"
+          },
+          {
+            "nom": "filets de daurade royale",
+            "quantite": "4 (environ 640 g)"
+          },
+          {
+            "nom": "jambon cuit en tranches épaisses",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "jambon cuit tranché",
+            "quantite": "8 tranches (environ 200 g)"
+          },
+          {
+            "nom": "lardons fumés",
+            "quantite": "150 g"
+          }
+        ]
+      },
+      {
+        "rayon": "Fruits & légumes",
+        "items": [
+          {
+            "nom": "courgettes",
+            "quantite": "9 (environ 2,5 kg)"
+          },
+          {
+            "nom": "aubergine",
+            "quantite": "1"
+          },
+          {
+            "nom": "tomates",
+            "quantite": "13"
+          },
+          {
+            "nom": "tomates cerises",
+            "quantite": "450 g"
+          },
+          {
+            "nom": "pommes de terre grenaille",
+            "quantite": "800 g"
+          },
+          {
+            "nom": "pommes de terre",
+            "quantite": "1,4 kg"
+          },
+          {
+            "nom": "carottes",
+            "quantite": "4"
+          },
+          {
+            "nom": "oignons",
+            "quantite": "5"
+          },
+          {
+            "nom": "ail",
+            "quantite": "2 têtes"
+          },
+          {
+            "nom": "avocats mûrs",
+            "quantite": "2"
+          },
+          {
+            "nom": "salade verte (frisée ou batavia)",
+            "quantite": "1"
+          },
+          {
+            "nom": "salade romaine",
+            "quantite": "1"
+          },
+          {
+            "nom": "salade iceberg",
+            "quantite": "1/2"
+          },
+          {
+            "nom": "épinards frais",
+            "quantite": "500 g"
+          },
+          {
+            "nom": "brocoli",
+            "quantite": "600 g"
+          },
+          {
+            "nom": "citrons",
+            "quantite": "6"
+          },
+          {
+            "nom": "basilic frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "persil frais",
+            "quantite": "1 bouquet"
+          },
+          {
+            "nom": "thym frais",
+            "quantite": "1 botte (environ 10 branches)"
+          },
+          {
+            "nom": "romarin frais",
+            "quantite": "4 branches"
+          },
+          {
+            "nom": "gingembre frais",
+            "quantite": "1 petit morceau (5 cm)"
+          }
+        ]
+      },
+      {
+        "rayon": "Produits laitiers & œufs",
+        "items": [
+          {
+            "nom": "œufs",
+            "quantite": "8"
+          },
+          {
+            "nom": "mozzarella en billes (ciliegine)",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "chèvre frais (bûche)",
+            "quantite": "150 g"
+          },
+          {
+            "nom": "emmental râpé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "gruyère râpé",
+            "quantite": "200 g"
+          },
+          {
+            "nom": "cheddar en tranches",
+            "quantite": "8 tranches"
+          },
+          {
+            "nom": "parmesan râpé",
+            "quantite": "180 g"
+          },
+          {
+            "nom": "crème fraîche épaisse",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "crème fraîche liquide",
+            "quantite": "150 ml"
+          },
+          {
+            "nom": "beurre",
+            "quantite": "100 g"
+          },
+          {
+            "nom": "lait entier",
+            "quantite": "500 ml"
+          }
+        ]
+      },
+      {
+        "rayon": "Épicerie",
+        "items": [
+          {
+            "nom": "pâtes fusilli",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "tagliatelles fraîches",
+            "quantite": "400 g"
+          },
+          {
+            "nom": "riz japonais à sushi",
+            "quantite": "300 g"
+          },
+          {
+            "nom": "riz arborio pour risotto",
+            "quantite": "320 g"
+          },
+          {
+            "nom": "semoule moyenne",
+            "quantite": "280 g"
+          },
+          {
+            "nom": "vermicelles fins",
+            "quantite": "80 g"
+          },
+          {
+            "nom": "tortillas de blé grande taille",
+            "quantite": "8"
+          },
+          {
+            "nom": "buns à burger",
+            "quantite": "4"
+          },
+          {
+            "nom": "pain de campagne",
+            "quantite": "2 miches ou 12 tranches"
+          },
+          {
+            "nom": "baguette",
+            "quantite": "1"
+          },
+          {
+            "nom": "chapelure fine",
+            "quantite": "70 g"
+          },
+          {
+            "nom": "tomates concassées en boîte",
+            "quantite": "3 boîtes (400 g chacune)"
+          },
+          {
+            "nom": "maïs en boîte",
+            "quantite": "2 boîtes (200 g égouttées chacune)"
+          },
+          {
+            "nom": "bouillon de légumes (cubes ou fond)",
+            "quantite": "2,3 litres"
+          },
+          {
+            "nom": "bouillon de poisson (cubes ou fond)",
+            "quantite": "1 litre"
+          },
+          {
+            "nom": "sauce soja",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "vinaigre de riz",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre balsamique",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de vin",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "vinaigre de cidre",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "huile d'olive",
+            "quantite": "1 bouteille (75 cl)"
+          },
+          {
+            "nom": "huile neutre",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "miel",
+            "quantite": "2 cuillères à soupe"
+          },
+          {
+            "nom": "moutarde de Dijon",
+            "quantite": "1 pot"
+          },
+          {
+            "nom": "moutarde à l'ancienne",
+            "quantite": "1 petit pot"
+          },
+          {
+            "nom": "ketchup",
+            "quantite": "4 cuillères à soupe"
+          },
+          {
+            "nom": "mayonnaise",
+            "quantite": "8 cuillères à soupe"
+          },
+          {
+            "nom": "graines de sésame",
+            "quantite": "1 cuillère à soupe"
+          },
+          {
+            "nom": "safran en filaments",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "paprika doux",
+            "quantite": "1 cuillère à café"
+          },
+          {
+            "nom": "herbes de Provence",
+            "quantite": "1 flacon"
+          },
+          {
+            "nom": "noix de muscade",
+            "quantite": "1 pincée"
+          },
+          {
+            "nom": "laurier",
+            "quantite": "3 feuilles"
+          },
+          {
+            "nom": "vin blanc sec",
+            "quantite": "100 ml"
+          },
+          {
+            "nom": "cornichons",
+            "quantite": "8"
+          },
+          {
+            "nom": "sel, poivre",
+            "quantite": "à goût"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "semaine_du": "2026-08-30",
     "menus": [
       {
